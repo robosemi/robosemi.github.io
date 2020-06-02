@@ -22,11 +22,11 @@ sudo bundle install
 ```
 
 ### Previewing
-Execute
+Execute the following command on the root of this repo.
 ```bash
 bundle exec jekyll serve
 ```
-then visit [localhost:4000](http://localhost:4000/) in your browser and you can preview pages locally.
+Then visiting [localhost:4000](http://localhost:4000/) in your browser, you can preview pages locally.
 
 ## Aknowledgement
 This site is based on the [Cayman](https://github.com/pages-themes/cayman) thema.
