@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+
 # ロボティクス勉強会（ロボゼミ）
 ## 概要
 ロボゼミとは，LT以上，学会発表未満くらいの濃度でのロボティクスに関係する勉強会です．
