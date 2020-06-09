@@ -1,4 +1,4 @@
-# Robosemi Official HP
+# RoboSemi Official HP
 You can view our HP [here](https://robosemi.github.io/).
 
 
