@@ -1,0 +1,36 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+.page-header {
+  // color: black;
+//   text-align: center;
+  background-image: linear-gradient(120deg, #2965CC, #46BFCF);
+}
+
+.project-tagline {
+  // font-weight: bolder;
+  font-size: x-large;
+}
+
+.main-content {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #2965CC;
+  }
+}
+
+a {
+  color: black;
+  text-decoration: underline;
+
+  &:hover {
+    color: $body-link-color;
+  }
+}
+
