@@ -3,3 +3,6 @@ _site
 
 # automatically generated files
 Gemfile.lock
+
+# vscode settings
+.vscode
