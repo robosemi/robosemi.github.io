@@ -40,3 +40,10 @@ layout: default
 ## 後援
 本企画は第1回より，[日本ロボット学会](https://www.rsj.or.jp/)の[ヒューロビント研究専門委員会](http://www.koj-m.sakura.ne.jp/hurobint/)からご後援をいただいております．
 ロボティクス分野の若手研究者・技術者交流促進の場としての可能性を，共に探って参ります．
+
+- - -
+<a class="twitter-timeline" data-width="540" data-height="720" data-theme="light" href="https://twitter.com/robosemi?ref_src=twsrc%5Etfw">
+  Tweets by robosemi
+</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
+</script> 
