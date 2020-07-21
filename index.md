@@ -5,7 +5,14 @@ layout: default
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
 # ロボティクス勉強会（ロボゼミ）
-![robosemi_logo](figure/logo.png)
+<img src="/figure/logo.png" class="top_image"/>
+<style>
+  .top_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
 
 ## 概要
 ロボゼミとは，LT以上，学会発表未満くらいの濃度でのロボティクスに関係する勉強会です．
@@ -26,11 +33,12 @@ layout: default
 イベントの約4週間前に開催が告知され，発表者を先行して募集します．
 その後，イベントの約2週間前になると聴講者の募集も開始されます．
 
-## 開催記録
-ロボゼミは2020年5月に試験開催を行い，2020年6月から定期開催を始めました．
-以下のリンクでは，年毎に，発表者と発表タイトルを記録しています．
+スケジュールに変更が発生した場合は，Twitterにて告知を行っています．
 
-- [2020](archive/history2020)
+## アーカイブ
+以下のリンクでは発表者と発表タイトル，および資料へのリンクを記録しています．
+
+- [2020年の記録](archive/history2020)
 
 ## 主催
 - 安達 波平　（筑波大学）
