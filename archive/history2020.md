@@ -4,20 +4,36 @@ title: History 2020
 description: Seminar History in 2020
 ---
 
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+
 # 2020年の記録
 ## 【試験開催】第0回ロボティクス勉強会 
-- 日時：2020/05/15(金) 20:00~22:00 
+- 日時：2020/05/15 (金) 20:00~23:00 
 - 参加者：24名
 - ツール：Google Meet
 - イベントページ：[connpass](https://connpass.com/event/174541/edit/)
 
 | タイトル | 発表者 | 資料等 |
 |:---|:---|:---|
-| Maritime RobotX Challenge2020に向けたプランナーの開発| [hakuturu583](https://connpass.com/user/hakuturu583/) | [資料](https://docs.google.com/presentation/d/e/2PACX-1vRsEI5iBjbS4Nxl9VOSV5ax9akOKrzphDccoy_WZvhO6CCCA7a7KgzMVZqHyK60oDp9wVAU5q3eF7p2/pub?start=false&loop=false&delayms=3000) |
-| RoboCup SSLとSTP | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | [資料](https://t.co/VaQGsnrWfz) |
-| iLQRの導出とシミュレーション例  | [ksyundo](https://connpass.com/user/nekokoneko_mode/) | [資料](https://docs.google.com/presentation/d/12TaCq3RMpfL6hKv5oh9h8YzPGZIwI1Z5Kukr9greSX8/edit?usp=sharing) |
-| 微分動的計画法の近年の動向 | [yuki](https://connpass.com/user/blessingyuki/) |  [資料](https://speakerdeck.com/ssryuki/a-survey-of-constrained-differential-dynamics-programming) |
+| Maritime RobotX Challenge2020に向けたプランナーの開発| [hakuturu583](https://connpass.com/user/hakuturu583/) | [資料 (Google Slide)](https://docs.google.com/presentation/d/e/2PACX-1vRsEI5iBjbS4Nxl9VOSV5ax9akOKrzphDccoy_WZvhO6CCCA7a7KgzMVZqHyK60oDp9wVAU5q3eF7p2/pub?start=false&loop=false&delayms=3000) |
+| RoboCup SSLとSTP | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | [資料 (Google Slide)](https://t.co/VaQGsnrWfz) |
+| iLQRの導出とシミュレーション例  | [ksyundo](https://connpass.com/user/nekokoneko_mode/) | [資料 (Google Slide)](https://docs.google.com/presentation/d/12TaCq3RMpfL6hKv5oh9h8YzPGZIwI1Z5Kukr9greSX8/edit?usp=sharing) |
+| 微分動的計画法の近年の動向 | [yuki](https://connpass.com/user/blessingyuki/) | [資料 (Speaker Deck)](https://speakerdeck.com/ssryuki/a-survey-of-constrained-differential-dynamics-programming) |
 | 中部チームNAGOYA SHACHIHOKO | [yoshiko_kulala](https://connpass.com/user/yoshiko_kulala/) | 資料は参加者限定公開 |
+
+## 第1回ロボティクス勉強会 
+- 日時：2020/06/19 (金) 20:00~23:00
+- 参加者：31名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/176733/)
+
+| タイトル | 発表者 | 資料等 |
+|:---|:---|:---|
+| RoboCup ヒューマノイドリーグの紹介と オープンプラットフォームヒューマノイドロボット GankenKunの開発について | [T.Nakajima](https://connpass.com/user/takayan660/) | [資料 (SlideShare)](https://www.slideshare.net/secret/ksoeRvM6gDnUm8) |
+| Maritime RobotX Challenge2020へ向けた自己位置推定アーキテクチャ | [hakuturu583](https://connpass.com/user/hakuturu583/)  |  |
+| 最近の国際学会で気になった論文を紹介（コンピュータビジョン） | [godel](https://connpass.com/user/godel/) |  |
+| 今更ICRA 2019 Robomaster AI Challengeを振り返る | [7oei](https://connpass.com/user/7oei/) | [資料 (pptx)](./files/robosemi2020_05_4.pptx) |
+
 
 - - -
 [Back](../index)
