@@ -48,5 +48,6 @@ layout: default
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
 </script> 
 
+- - -
 Our logo has been created on Online Logo Maker.
 Look at the awesome logo I made at [Online Logo Maker](https://onlinelogomaker.com/)
