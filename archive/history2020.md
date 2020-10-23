@@ -30,10 +30,21 @@ description: Seminar History in 2020
 | タイトル | 発表者 | 資料等 |
 |:---|:---|:---|
 | RoboCup ヒューマノイドリーグの紹介と オープンプラットフォームヒューマノイドロボット GankenKunの開発について | [T.Nakajima](https://connpass.com/user/takayan660/) | [資料 (SlideShare)](https://www.slideshare.net/secret/ksoeRvM6gDnUm8) |
-| Maritime RobotX Challenge2020へ向けた自己位置推定アーキテクチャ | [hakuturu583](https://connpass.com/user/hakuturu583/)  |  |
+| Maritime RobotX Challenge2020へ向けた自己位置推定アーキテクチャ | [hakuturu583](https://connpass.com/user/hakuturu583/) |  |
 | 最近の国際学会で気になった論文を紹介（コンピュータビジョン） | [godel](https://connpass.com/user/godel/) |  |
 | 今更ICRA 2019 Robomaster AI Challengeを振り返る | [7oei](https://connpass.com/user/7oei/) | [資料 (pptx)](./files/robosemi2020_05_4.pptx) |
 
+## 第2回ロボティクス勉強会
+- 日時：2020/07/17 (金) 20:00~22:30
+- 参加者：29名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/180919/)
+
+| タイトル | 発表者 | 資料等 |
+|:---|:---|:---|
+| プラグインについて | [yuki](https://connpass.com/user/blessingyuki/) | 公開準備中 |
+| 形態可変ロボットの作り方（暫定） | [ntm510](https://connpass.com/user/ntm510/) | 公開なし |
+| ヘリUAVの開発とその活用法に関するプロジェクト | [HTlab](https://connpass.com/user/HTlab/) | [資料 (pptx)](./files/robosemi2020_07_3.pptx) |
 
 - - -
 [Back](../index)
