@@ -46,5 +46,19 @@ description: Seminar History in 2020
 | 形態可変ロボットの作り方（暫定） | [ntm510](https://connpass.com/user/ntm510/) | 公開なし |
 | ヘリUAVの開発とその活用法に関するプロジェクト | [HTlab](https://connpass.com/user/HTlab/) | [資料 (pptx)](./files/robosemi2020_07_3.pptx) |
 
+## 第3回ロボティクス勉強会
+- 日時：2020/08/21 (金) 20:00~22:30
+- 参加者：31名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/183407/)
+
+| タイトル | 発表者 | 資料等 |
+|:---|:---|:---|
+| ロボコン機体製作活動における心得　仙台知能ロボコンを通したケーススタディ | [こめぱん](https://connpass.com/user/komepann_frozen/) | [資料 (PDF)](https://drive.google.com/file/d/1x9iNJtCtJnXrv8S1UyCTDfxEwk2fCKT_/view) |
+| RoboCupSSLにおける 高出力･高昇圧比 昇圧チョッパの開発 | [chikuwa_robo](https://connpass.com/user/chikuwa_robo/) | [資料 (Google Slide)](https://docs.google.com/presentation/d/1rCMEidaXLrybKAL99Frg_uFz9Ri2Di6vqYeBxXFXt8k/edit#slide=id.p) |
+| コーナーで差をつけろ！ 深層強化学習でドリフトする | [hakuturu583](https://connpass.com/user/hakuturu583/) | [資料 (Google Slide)](https://docs.google.com/presentation/d/e/2PACX-1vQUMzknXr0eLSpeMwfgx6OHAja6xsNnY7NU6HsOLbKcoP-7ngcfe5STBLs7erDg50h363gPAvX1dNAQ/pub?start=false&loop=false&delayms=3000#slide=id.p) |
+| Perception Layer Design Survey 1 | [Namihei Adachi](https://connpass.com/user/7oei/) | [資料 (PDF)](https://drive.google.com/file/d/1EKN8V1NOTqcp3oMLN8iOjL8e6WpXscFx/view) |
+| 「マニピュレーションレビュー」のレビュー | [smakita]() | [資料 (SlideShare)](https://www.slideshare.net/SatoshiMakita/robosemi-a-brief-survey-on-surveys-on-robotic-manipulation-researches) |
+
 - - -
 [Back](../index)
