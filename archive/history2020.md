@@ -19,7 +19,7 @@ description: Seminar History in 2020
 | RoboCup SSLとSTP | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | [資料 (Google Slide)](https://t.co/VaQGsnrWfz) |
 | iLQRの導出とシミュレーション例  | [ksyundo](https://connpass.com/user/nekokoneko_mode/) | [資料 (Google Slide)](https://docs.google.com/presentation/d/12TaCq3RMpfL6hKv5oh9h8YzPGZIwI1Z5Kukr9greSX8/edit?usp=sharing) |
 | 微分動的計画法の近年の動向 | [yuki](https://connpass.com/user/blessingyuki/) | [資料 (Speaker Deck)](https://speakerdeck.com/ssryuki/a-survey-of-constrained-differential-dynamics-programming) |
-| 中部チームNAGOYA SHACHIHOKO | [yoshiko_kulala](https://connpass.com/user/yoshiko_kulala/) | 資料は参加者限定公開 |
+| 中部チームNAGOYA SHACHIHOKO | [yoshiko_kulala](https://connpass.com/user/yoshiko_kulala/) | 参加者限定公開 |
 
 ## 第1回ロボティクス勉強会 
 - 日時：2020/06/19 (金) 20:00~23:00
