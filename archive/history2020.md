@@ -30,8 +30,8 @@ description: Seminar History in 2020
 | タイトル | 発表者 | 資料等 |
 |:---|:---|:---|
 | RoboCup ヒューマノイドリーグの紹介と オープンプラットフォームヒューマノイドロボット GankenKunの開発について | [T.Nakajima](https://connpass.com/user/takayan660/) | [資料 (SlideShare)](https://www.slideshare.net/secret/ksoeRvM6gDnUm8) |
-| Maritime RobotX Challenge2020へ向けた自己位置推定アーキテクチャ | [hakuturu583](https://connpass.com/user/hakuturu583/) |  |
-| 最近の国際学会で気になった論文を紹介（コンピュータビジョン） | [godel](https://connpass.com/user/godel/) |  |
+| Maritime RobotX Challenge2020へ向けた自己位置推定アーキテクチャ | [hakuturu583](https://connpass.com/user/hakuturu583/) | 公開なし |
+| 最近の国際学会で気になった論文を紹介（コンピュータビジョン） | [godel](https://connpass.com/user/godel/) | 公開なし |
 | 今更ICRA 2019 Robomaster AI Challengeを振り返る | [7oei](https://connpass.com/user/7oei/) | [資料 (pptx)](./files/robosemi2020_05_4.pptx) |
 
 ## 第2回ロボティクス勉強会
