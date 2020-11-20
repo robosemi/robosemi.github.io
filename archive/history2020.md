@@ -71,5 +71,17 @@ description: Seminar History in 2020
 | すごいぞ！KinecV2！！ | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | [資料 (SlideShare)](https://www.slideshare.net/KotaroYoshimoto1/kinectv2-238542958) |
 | MIT Mini Cheetah Motorのソースコードを解析する | [chikuwa_robo](https://connpass.com/user/chikuwa_robo/) | [資料 (Google Slide)](https://docs.google.com/presentation/d/1ZutUnSP4FFhuk0hnBdZXoAYiXGgv4k0-fMAkccgtNRI/edit?usp=sharing) |
 
+## 第5回ロボティクス勉強会
+- 日時：2020/10/23 (金) 20:00~22:00
+- 参加者：44名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/190300/)
+
+| タイトル | 発表者 | 資料等 |
+|:---|:---|:---|
+| GreenTea SSLの紹介 | [SchneeTech](https://connpass.com/user/SchneeTech/) |  |
+| 自動下膳ロボットACUR-Cの開発 | [OTL](https://connpass.com/user/OTL/) | [資料 (Google Slide)](https://docs.google.com/presentation/d/1ZutUnSP4FFhuk0hnBdZXoAYiXGgv4k0-fMAkccgtNRI/edit?usp=sharing) |
+| 自動卓球返球ロボットの開発 | [hygradme](https://connpass.com/user/hygradme/) | [資料（Google Slide）](https://t.co/cr2hfhtPoq?amp=1)|
+| メカナムロボットをMakerFaireTokyo2020で展示してみた | [motoms](https://connpass.com/user/motomi/) | |
 - - -
 [Back](../index)
