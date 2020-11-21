@@ -81,7 +81,8 @@ description: Seminar History in 2020
 |:---|:---|:---|
 | GreenTea SSLの紹介 | [SchneeTech](https://connpass.com/user/SchneeTech/) |  |
 | 自動下膳ロボットACUR-Cの開発 | [OTL](https://connpass.com/user/OTL/) | [資料 (Google Slide)](https://docs.google.com/presentation/d/1ZutUnSP4FFhuk0hnBdZXoAYiXGgv4k0-fMAkccgtNRI/edit?usp=sharing) |
-| 自動卓球返球ロボットの開発 | [hygradme](https://connpass.com/user/hygradme/) | [資料（Google Slide）](https://t.co/cr2hfhtPoq?amp=1)|
+| 自動卓球返球ロボットの開発 | [hygradme](https://connpass.com/user/hygradme/) | [資料（Google Slide）](https://t.co/cr2hfhtPoq?amp=1) |
 | メカナムロボットをMakerFaireTokyo2020で展示してみた | [motoms](https://connpass.com/user/motomi/) | |
+
 - - -
 [Back](../index)
