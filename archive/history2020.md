@@ -43,7 +43,7 @@ description: Seminar History in 2020
 | タイトル | 発表者 | 資料等 |
 |:---|:---|:---|
 | プラグインについて | [yuki](https://connpass.com/user/blessingyuki/) | 公開準備中 |
-| 形態可変ロボットの作り方（暫定） | [ntm510](https://connpass.com/user/ntm510/) | 公開なし |
+| 形態可変ロボットの作り方 | [ntm510](https://connpass.com/user/ntm510/) | 公開なし |
 | ヘリUAVの開発とその活用法に関するプロジェクト | [HTlab](https://connpass.com/user/HTlab/) | [資料 (pptx)](./files/robosemi2020_07_3.pptx) |
 
 ## 第3回ロボティクス勉強会
@@ -79,10 +79,10 @@ description: Seminar History in 2020
 
 | タイトル | 発表者 | 資料等 |
 |:---|:---|:---|
-| GreenTea SSLの紹介 | [SchneeTech](https://connpass.com/user/SchneeTech/) |  |
-| 自動下膳ロボットACUR-Cの開発 | [OTL](https://connpass.com/user/OTL/) | [資料 (Google Slide)](https://docs.google.com/presentation/d/1ZutUnSP4FFhuk0hnBdZXoAYiXGgv4k0-fMAkccgtNRI/edit?usp=sharing) |
+| GreenTea SSLの紹介 | [SchneeTech](https://connpass.com/user/SchneeTech/) | 公開なし |
+| 自動下膳ロボットACUR-Cの開発 | [OTL](https://connpass.com/user/OTL/) | 公開なし |
 | 自動卓球返球ロボットの開発 | [hygradme](https://connpass.com/user/hygradme/) | [資料（Google Slide）](https://t.co/cr2hfhtPoq?amp=1) |
-| メカナムロボットをMakerFaireTokyo2020で展示してみた | [motoms](https://connpass.com/user/motomi/) | |
+| メカナムロボットをMakerFaireTokyo2020で展示してみた | [motoms](https://connpass.com/user/motomi/) | 公開なし |
 
 - - -
 [Back](../index)
