@@ -42,7 +42,7 @@ description: Seminar History in 2020
 
 | タイトル | 発表者 | 資料等 |
 |:---|:---|:---|
-| プラグインについて | [yuki](https://connpass.com/user/blessingyuki/) | 公開準備中 |
+| プラグインについて | [yuki](https://connpass.com/user/blessingyuki/) | 公開なし |
 | 形態可変ロボットの作り方 | [ntm510](https://connpass.com/user/ntm510/) | 公開なし |
 | ヘリUAVの開発とその活用法に関するプロジェクト | [HTlab](https://connpass.com/user/HTlab/) | [資料 (pptx)](./files/robosemi2020_07_3.pptx) |
 
