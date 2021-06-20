@@ -98,5 +98,19 @@ description: Seminar History in 2020
 | Zynq 良いよ Zynq! | [FrostyDesign_JP](https://connpass.com/user/FrostyDesign_JP/) | 公開なし |
 | Lightning Review: Atlasの運動生成 | [yuki](https://connpass.com/user/blessingyuki/) |  公開なし |
 
+## 第7回ロボティクス勉強会
+
+- 日時：2020/12/18 (金) 20:00~22:00
+- 参加者：38名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/196905/)
+
+| タイトル | 発表者 | 資料等 |
+|:---|:---|:---|
+| ROS2のプラグインとか周辺ツールとか作ってみた | [Kotakku_07](https://connpass.com/user/Kotakku_07/) | [資料](https://docs.google.com/presentation/d/1-Aws3zUPtEMZYHJulObHREuzet6DM06Q7orb7i9VSXM/edit#slide=id.p) |
+| モジューラーロボットを作ってみた | [takijo_kota](https://connpass.com/user/takijon/) | 公開なし |
+| 激安犬ロボを買って，壊して，直せてたらいいな！ | [Ryodo Tanaka](https://connpass.com/user/RyodoTanaka/) | [資料](https://www.slideshare.net/RyodoTanaka1/ss-240278811) |
+| FPGAをロボット(ROS)で「やわらかく」使うには | [takasehideki](https://connpass.com/user/takasehideki/) | [資料](https://www.slideshare.net/takasehideki/fpgaros-240272923) |
+
 - - -
 [Back](../index)
