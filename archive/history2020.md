@@ -84,5 +84,19 @@ description: Seminar History in 2020
 | 自動卓球返球ロボットの開発 | [hygradme](https://connpass.com/user/hygradme/) | [資料（Google Slide）](https://t.co/cr2hfhtPoq?amp=1) |
 | メカナムロボットをMakerFaireTokyo2020で展示してみた | [motoms](https://connpass.com/user/motomi/) | 公開なし |
 
+## 第6回ロボティクス勉強会
+
+- 日時：2020/11/20 (金) 20:00~22:00
+- 参加者：39名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/193446/)
+
+| タイトル | 発表者 | 資料等 |
+|:---|:---|:---|
+| ROS2のここが神（とここがクソ） | [hakuturu583](https://connpass.com/user/hakuturu583/) | [資料](https://docs.google.com/presentation/d/e/2PACX-1vTwPY54_x34NnRu34shcuT1IoclHoP2_DO6gavdKgf7xuVVHns5cwQRuRjwZhnhcsQ2hIF7zHWyQ8wA/pub?start=false&loop=false&delayms=3000) |
+| 論文: Learning quadrupedal locomotion over challenging terrain 紹介 | [ksyundo](https://connpass.com/user/nekokoneko_mode/) | [資料](https://docs.google.com/presentation/d/1q44sCpLOSO43dTfb4x6m9Q1dMO-DKdJMYiVsEt8s_PI/edit?usp=sharing) |
+| Zynq 良いよ Zynq! | [FrostyDesign_JP](https://connpass.com/user/FrostyDesign_JP/) | 公開なし |
+| Lightning Review: Atlasの運動生成 | [yuki](https://connpass.com/user/blessingyuki/) |  公開なし |
+
 - - -
 [Back](../index)
