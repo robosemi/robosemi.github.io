@@ -19,7 +19,7 @@ description: Seminar History in 2021
 | ロボット運動学の真髄 | [関口叡範](https://connpass.com/user/Sekiguchi-Masanori/) | [資料 (note)](https://note.com/sekky0816/n/n09f6bd49c864) |
 | 買ってこれるBLDCモータドライバの紹介 | [yuqlid](https://connpass.com/user/yuqlid/)| [資料 (Google Slide)](https://docs.google.com/presentation/d/1SZri-gQmuVC0go9u0hBJ8WZVMpjcxe2Ax647OW_JoW0/edit#slide=id.gc6f73a04f_0_0) |
 | 激安犬ロボの中身を知る Ver.1 | [Ryodo Tanaka](https://connpass.com/user/RyodoTanaka/) | 公開なし |
-| LOCUS(仮) | [HansRobo](https://connpass.com/user/Hans_Robo/) | [資料 (Google Slide)]() |
+| LOCUS | [HansRobo](https://connpass.com/user/Hans_Robo/) | [資料 (Google Slide)](https://docs.google.com/presentation/d/1ZViQX9AZeS_KmEaRVdl7sm5U2or4NHgSA3coVylsAqY/edit?usp=sharing) |
 
 ## 第9回ロボティクス勉強会
 
