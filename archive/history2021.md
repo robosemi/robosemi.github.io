@@ -35,5 +35,45 @@ description: Seminar History in 2021
 | ros_controlを使ってセンシング（前編） | [yuki](https://connpass.com/user/blessingyuki/) | 後編でまとめて公開予定 |
 | OpenRCFの使い方を実況形式で解説 | [関口叡範](https://connpass.com/user/Sekiguchi-Masanori/)  | [資料 (BOOTH)](https://booth.pm/ja/items/2754488) |
 
+## 第10回ロボティクス勉強会
+
+- 日時：2021/3/26 (金) 20:00~22:00
+- 参加者：38名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/207600/)
+
+| タイトル | 発表者 | 資料等 |
+|:---|:---|:---|
+| 脚ロボットにおけるリアルタイムシステムの課題 | [FrostyDesign_JP](https://connpass.com/user/FrostyDesign_JP/) | 公開なし |
+| 最近の人型ロボットはどのくらいの制御周期で歩いているのか？ | [yuki](https://connpass.com/user/blessingyuki/) | [資料 (Google Slide)](https://docs.google.com/presentation/d/1Trh9Lbp4xrx6jV_Zm8ckWhCCZNKQUz8QaHszMVo-ieE/edit?usp=sharing) |
+| ロボットの種類に依存しないサービスロボットの構築に向けて：オントロジと動作プリミティブに基づく家電操作 | [A. Yuguchi](https://connpass.com/user/ayuguchi/) | [資料 (PDF)](https://drive.google.com/file/d/1HHLLxUqezigpj8kGRbO56AOV022fXQ0x/view?usp=sharing) |
+|高速Graspingをやってみた|[scepter914](https://connpass.com/user/scepter914/)| [論文](https://ieeexplore.ieee.org/document/9341175) |
+
+## 第11回ロボティクス勉強会
+
+- 日時：2021/4/23 (金) 20:00~22:00
+- 参加者：24名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/210366/)
+
+| タイトル | 発表者 | 資料等 |
+|:---|:---|:---|
+| 人工筋肉らしき何かを作ってみた | [reijin](https://connpass.com/user/reijin/) | [資料 (pptx)](https://drive.google.com/file/d/1FkmcxuRfw1CdZ5nGfZHsWW_LF9OmGF8p/view?usp=sharing) |
+| RTミドルウェアを用いたロボットボールキャッチシステムの開発 | [A.Yuguchi](http://connpass.com/user/ayuguchi/) | [資料 (PDF)](https://drive.google.com/file/d/1pHqndwtbGFitN1R0PYbygdPJEB_ucn9L/view?usp=sharing) |
+| コストマップに関する調査 | [Namihei Adachi](http://connpass.com/user/7oei/)| [資料 (Google Slide)](https://drive.google.com/file/d/1n2D0pkWMDe4zUIHrsZEH-KuPyPuPqBda/view?usp=sharing) |
+| Constraint Motion Planning について | [Ryodo Tanaka](http://connpass.com/user/RyodoTanaka/) | [資料 (SlideShare)](https://www.slideshare.net/RyodoTanaka1/constraint-motion-planning) |
+
+## 第12回ロボティクス勉強会
+
+- 日時：2021/5/21 (金) 20:00~23:00
+- 参加者：31名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/212543/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| 運動学を用いた点群位置合わせ UR5eとZED miniのケーススタディ | [tktats35873287](https://connpass.com/user/tktats35873287/) | 通常発表（20分） | [資料 (PDF)](https://drive.google.com/file/d/1r8Vr6JhTJBSfSiN58zzjMiSl821V_tgR/view?usp=sharing) |
+| ros_controlの仕組みを読み解く | [yuki](https://connpass.com/user/blessingyuki/) | 通常発表（30分） | [資料 (Google Slide)](https://docs.google.com/presentation/d/14zoOuA3LuqGBONwemeh4kHyISTxo4r7f2JiQLKTy5YI/edit?usp=sharing) |
+
 - - -
 [Back](../index)
