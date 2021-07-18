@@ -75,5 +75,75 @@ description: Seminar History in 2021
 | 運動学を用いた点群位置合わせ UR5eとZED miniのケーススタディ | [tktats35873287](https://connpass.com/user/tktats35873287/) | 通常発表（20分） | [資料 (PDF)](https://drive.google.com/file/d/1r8Vr6JhTJBSfSiN58zzjMiSl821V_tgR/view?usp=sharing) |
 | ros_controlの仕組みを読み解く | [yuki](https://connpass.com/user/blessingyuki/) | 通常発表（30分） | [資料 (Google Slide)](https://docs.google.com/presentation/d/14zoOuA3LuqGBONwemeh4kHyISTxo4r7f2JiQLKTy5YI/edit?usp=sharing) |
 
+
+<!-- ## 第13回ロボティクス勉強会
+
+- 日時：2021/6/18 (金) 20:00~22:00
+- 参加者：N名
+- ツール：ZOOM
+- イベントページ：[connpass](URL)
+
+| タイトル | 発表者 | 資料等 |
+| :--- | :--- | :--- |
+|  | [name](https://connpass.com/user/name/) | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | [資料](url) | -->
+
+<!-- ## 第14回ロボティクス勉強会
+
+- 日時：2021/7/16 (金) 20:00~22:00
+- 参加者：N名
+- ツール：ZOOM
+- イベントページ：[connpass](URL)
+
+| タイトル | 発表者 | 資料等 |
+| :--- | :--- | :--- |
+|  | [name](https://connpass.com/user/name/) | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | [資料](url) | -->
+
+<!-- ## 第15回ロボティクス勉強会
+
+- 日時：2021/8/20 (金) 20:00~22:00
+- 参加者：N名
+- ツール：ZOOM
+- イベントページ：[connpass](URL)
+
+| タイトル | 発表者 | 資料等 |
+| :--- | :--- | :--- |
+|  | [name](https://connpass.com/user/name/) | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | [資料](url) | -->
+
+<!-- ## 第16回ロボティクス勉強会
+
+- 日時：2021/9/17 (金) 20:00~22:00
+- 参加者：N名
+- ツール：ZOOM
+- イベントページ：[connpass](URL)
+
+| タイトル | 発表者 | 資料等 |
+| :--- | :--- | :--- |
+|  | [name](https://connpass.com/user/name/) | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | [資料](url) | -->
+
+<!-- ## 第N回ロボティクス勉強会
+
+- 日時：2021/ (金) 20:00~22:00
+- 参加者：N名
+- ツール：ZOOM
+- イベントページ：[connpass](URL)
+
+| タイトル | 発表者 | 資料等 |
+| :--- | :--- | :--- |
+|  | [name](https://connpass.com/user/name/) | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | [資料](url) | -->
 - - -
 [Back](../index)
