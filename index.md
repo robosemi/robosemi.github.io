@@ -4,7 +4,9 @@ layout: default
 
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
-# ロボティクス勉強会（ロボゼミ）
+
+
+
 <img src="/figure/logo.png" class="top_image"/>
 <style>
   .top_image {
@@ -13,6 +15,12 @@ layout: default
     margin-right: auto;
   }
 </style>
+
+<div style="text-align: center;">
+  <a class="btn btn-1" onclick="location.href='archive/archive'">Go to the archive page</a>
+</div>
+
+# ロボティクス勉強会（ロボゼミ）
 
 ## 概要
 
@@ -48,13 +56,6 @@ layout: default
 聴講枠は，勉強会のちょうど1週間前（前週金曜日20時）に募集を開始します．
 
 スケジュールに変更が発生した場合は，Twitterにて告知を行っていますので，そちらも適宜ご確認ください．
-
-## アーカイブ
-
-以下のリンクでは発表者と発表タイトル，および資料へのリンクを記録しています．
-
-- [2020年の記録（第0回〜第7回）](archive/history2020)
-- [2021年の記録（第8回〜）](archive/history2021)
 
 ## 主催
 
