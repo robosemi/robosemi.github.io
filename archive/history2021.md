@@ -75,20 +75,19 @@ description: Seminar History in 2021
 | 運動学を用いた点群位置合わせ UR5eとZED miniのケーススタディ | [tktats35873287](https://connpass.com/user/tktats35873287/) | 通常発表（20分） | [資料 (PDF)](https://drive.google.com/file/d/1r8Vr6JhTJBSfSiN58zzjMiSl821V_tgR/view?usp=sharing) |
 | ros_controlの仕組みを読み解く | [yuki](https://connpass.com/user/blessingyuki/) | 通常発表（30分） | [資料 (Google Slide)](https://docs.google.com/presentation/d/14zoOuA3LuqGBONwemeh4kHyISTxo4r7f2JiQLKTy5YI/edit?usp=sharing) |
 
-
-<!-- ## 第13回ロボティクス勉強会
+## 第13回ロボティクス勉強会
 
 - 日時：2021/6/18 (金) 20:00~22:00
-- 参加者：N名
+- 参加者：39名
 - ツール：ZOOM
-- イベントページ：[connpass](URL)
+- イベントページ：[connpass](https://robosemi.connpass.com/event/214634/)
 
-| タイトル | 発表者 | 資料等 |
-| :--- | :--- | :--- |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) | -->
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| ICRA2021雑感、 勝手まとめ | [godel](https://connpass.com/user/godel/) | 通常発表（30分） | [資料 (SpeakerDeck)](https://speakerdeck.com/godel/icpr2021-sheng-shou-matome) |
+| 多関節ロボットのモーションプランニング | [関口叡範](https://connpass.com/user/Sekiguchi-Masanori/)| 通常発表（60分） | 公開なし |
+| 「ロボットのリアルタイムシステムについて調べてみました」 | [chikuta](https://connpass.com/user/chikuta/) | LT | 公開なし |
+| ロボット枕Pixxについて | [Ax Robotix_かわむら](https://connpass.com/user/YuichiKawamura/)| LT | [資料 (SlideShare)](https://www.slideshare.net/YuichiKawamura/20210618axrobotixkawamura-robosemi) |
 
 <!-- ## 第14回ロボティクス勉強会
 
