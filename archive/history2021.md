@@ -89,7 +89,6 @@ description: Seminar History in 2021
 | 「ロボットのリアルタイムシステムについて調べてみました」 | [chikuta](https://connpass.com/user/chikuta/) | LT | 公開なし |
 | ロボット枕Pixxについて | [Ax Robotix_かわむら](https://connpass.com/user/YuichiKawamura/)| LT | [資料 (SlideShare)](https://www.slideshare.net/YuichiKawamura/20210618axrobotixkawamura-robosemi) |
 
-
 ## 第14回ロボティクス勉強会
 
 - 日時：2021/7/16 (金) 20:00~23:00
@@ -103,6 +102,19 @@ description: Seminar History in 2021
 | グリッドマップ上でのA*探索の実行速度 | [ksyundo](https://connpass.com/user/nekokoneko_mode/) | LT | [資料 (GoogleSlides)](https://docs.google.com/presentation/d/1Kv6LBzxaawtfxjkawBa4X46xeVpPy6H_Bg1NyI-8YDI/edit?usp=sharing) |
 | 建設機械の自動化事業について | ARAV(株) [白久](https://connpass.com/user/shirokunet/) & [田中](https://connpass.com/user/RyodoTanaka/) | 通常発表（60分） | [資料 (GoogleSlides)](https://docs.google.com/presentation/d/1SxNLzb3RmINhm8WhtKisvMh7CFxFEH9PxPHiY4XZLZE/edit?usp=sharing) |
 | New Scenario Testing Tools for Autoware | [hakuturu583](https://connpass.com/user/hakuturu583/) | 通常発表（60分） | 準備中 |
+
+## 第15回ロボティクス勉強会
+
+- 日時：2021/8/20 (金) 20:00~23:00
+- 参加者：39名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/216999/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| Dive into DDS/RTPS | [takasehideki](https://connpass.com/user/takasehideki/) | LT | [資料 (SlideShare)](https://www.slideshare.net/takasehideki/rtps-249783622) |
+| 地図に対する点群除去手法「removert」の論文・実装調査 | [ryu_software](https://connpass.com/user/ryu_software/) | LT | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1X_vrjDEGDtXfIFaPiuBsyVm8uRB3cRG7Jv8s35Rxqek/edit?usp=sharing) |
+| HRIの世界へのお誘い：アンドロイドによる嘘つきの仕草 | [A. Yuguchi](https://connpass.com/user/ayuguchi/) | 通常発表（60分） | [資料 (PDF)](https://drive.google.com/file/d/1i7F_OSrK8RabEI82xFYUxxeKDcHTlqaR/view?usp=sharing) |
 
 ## 第16回ロボティクス勉強会
 
