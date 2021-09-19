@@ -119,17 +119,17 @@ description: Seminar History in 2021
 
 ## 第16回ロボティクス勉強会
 
-- 日時：2021/9/17 (金) 20:00~22:00
+- 日時：2021/9/17 (金) 20:00~23:00
 - 参加者：40名
 - ツール：ZOOM
 - イベントページ：[connpass](https://robosemi.connpass.com/event/217002/)
 
-| タイトル | 発表者 | 資料等 |
+| タイトル | 発表者 | 発表枠 | 資料等 |
 | :--- | :--- | :--- |
-| Contact Implicit Trajectory Optimization：野望と現状 | [mayataka_](https://connpass.com/user/mayataka_/) | [資料(GoogleSlides)](https://docs.google.com/presentation/d/1XaYSO9JYQWKEdLaIKDOXiqsfZxA5f1d7/edit?usp=sharing&ouid=103201946606274363939&rtpof=true&sd=true) |
-| LiDARSemi #1 : HESAIの干渉防止技術 | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | [資料(GoogleSlides)](https://docs.google.com/presentation/d/1TIWgZQebaSr-iz7ziK6FbbSrf3_RAJ-ZhZsaBshX4yg/edit?usp=sharing) |
-| 前日に20分ではぜんぜん足りなかった話しとライブデモ | [takasehideki](https://connpass.com/user/takasehideki/) | [資料(SlideShare)](https://www.slideshare.net/takasehideki/ros-2-client-library-for-e2-250206371) |
-| Tesla AI Dayまとめ | [hakuturu583](https://connpass.com/user/hakuturu583/) | [資料(GoogleSlides)](https://docs.google.com/presentation/d/1SypdiSyWztWOCqG9z5Z4oGndYYwOWBAYLrJcq8eP1ow/edit?usp=sharing) |
+| Contact Implicit Trajectory Optimization：野望と現状 | [mayataka_](https://connpass.com/user/mayataka_/) | LT | [資料 (GoogleSlides)](https://docs.google.com/presentation/d/1XaYSO9JYQWKEdLaIKDOXiqsfZxA5f1d7/edit?usp=sharing&ouid=103201946606274363939&rtpof=true&sd=true) |
+| LiDARSemi #1 : HESAIの干渉防止技術 | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | LT | [資料 (GoogleSlides)](https://docs.google.com/presentation/d/1TIWgZQebaSr-iz7ziK6FbbSrf3_RAJ-ZhZsaBshX4yg/edit?usp=sharing) |
+| 前日に20分ではぜんぜん足りなかった話しとライブデモ | [takasehideki](https://connpass.com/user/takasehideki/) | 通常発表(60分) | [資料 (SlideShare)](https://www.slideshare.net/takasehideki/ros-2-client-library-for-e2-250206371) |
+| Tesla AI Dayまとめ | [hakuturu583](https://connpass.com/user/hakuturu583/) | 通常発表(60分) | [資料 (GoogleSlides)](https://docs.google.com/presentation/d/1SypdiSyWztWOCqG9z5Z4oGndYYwOWBAYLrJcq8eP1ow/edit?usp=sharing) |
 
 <!-- ## 第N回ロボティクス勉強会
 
