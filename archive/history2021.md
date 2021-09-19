@@ -89,60 +89,32 @@ description: Seminar History in 2021
 | 「ロボットのリアルタイムシステムについて調べてみました」 | [chikuta](https://connpass.com/user/chikuta/) | LT | 公開なし |
 | ロボット枕Pixxについて | [Ax Robotix_かわむら](https://connpass.com/user/YuichiKawamura/)| LT | [資料 (SlideShare)](https://www.slideshare.net/YuichiKawamura/20210618axrobotixkawamura-robosemi) |
 
-<!-- ## 第14回ロボティクス勉強会
+## 第16回ロボティクス勉強会
 
-- 日時：2021/7/16 (金) 20:00~22:00
-- 参加者：N名
+- 日時：2021/9/17 (金) 20:00~23:00
+- 参加者：40名
 - ツール：ZOOM
-- イベントページ：[connpass](URL)
+- イベントページ：[connpass](https://robosemi.connpass.com/event/217002/)
 
-| タイトル | 発表者 | 資料等 |
-| :--- | :--- | :--- |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) | -->
-
-<!-- ## 第15回ロボティクス勉強会
-
-- 日時：2021/8/20 (金) 20:00~22:00
-- 参加者：N名
-- ツール：ZOOM
-- イベントページ：[connpass](URL)
-
-| タイトル | 発表者 | 資料等 |
-| :--- | :--- | :--- |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) | -->
-
-<!-- ## 第16回ロボティクス勉強会
-
-- 日時：2021/9/17 (金) 20:00~22:00
-- 参加者：N名
-- ツール：ZOOM
-- イベントページ：[connpass](URL)
-
-| タイトル | 発表者 | 資料等 |
-| :--- | :--- | :--- |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) | -->
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| Contact Implicit Trajectory Optimization：野望と現状 | [mayataka_](https://connpass.com/user/mayataka_/) | LT | [資料 (GoogleSlides)](https://docs.google.com/presentation/d/1XaYSO9JYQWKEdLaIKDOXiqsfZxA5f1d7/edit?usp=sharing&ouid=103201946606274363939&rtpof=true&sd=true) |
+| LiDARSemi #1 : HESAIの干渉防止技術 | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | LT | [資料 (GoogleSlides)](https://docs.google.com/presentation/d/1TIWgZQebaSr-iz7ziK6FbbSrf3_RAJ-ZhZsaBshX4yg/edit?usp=sharing) |
+| 前日に20分ではぜんぜん足りなかった話しとライブデモ | [takasehideki](https://connpass.com/user/takasehideki/) | 通常発表（60分） | [資料 (SlideShare)](https://www.slideshare.net/takasehideki/ros-2-client-library-for-e2-250206371) |
+| Tesla AI Dayまとめ | [hakuturu583](https://connpass.com/user/hakuturu583/) | 通常発表（60分） | [資料 (GoogleSlides)](https://docs.google.com/presentation/d/1SypdiSyWztWOCqG9z5Z4oGndYYwOWBAYLrJcq8eP1ow/edit?usp=sharing) |
 
 <!-- ## 第N回ロボティクス勉強会
 
-- 日時：2021/ (金) 20:00~22:00
+- 日時：2021/ (金) 20:00~23:00
 - 参加者：N名
 - ツール：ZOOM
 - イベントページ：[connpass](URL)
 
-| タイトル | 発表者 | 資料等 |
-| :--- | :--- | :--- |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) | -->
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+|  | [name](https://connpass.com/user/name/) | LT | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | LT | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | 通常発表（N分） | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | 通常発表（N分） | [資料](url) | -->
 - - -
 [Back](../index)
