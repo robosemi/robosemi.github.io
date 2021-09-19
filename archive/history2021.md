@@ -100,8 +100,8 @@ description: Seminar History in 2021
 | :--- | :--- | :--- | :--- |
 | Contact Implicit Trajectory Optimization：野望と現状 | [mayataka_](https://connpass.com/user/mayataka_/) | LT | [資料 (GoogleSlides)](https://docs.google.com/presentation/d/1XaYSO9JYQWKEdLaIKDOXiqsfZxA5f1d7/edit?usp=sharing&ouid=103201946606274363939&rtpof=true&sd=true) |
 | LiDARSemi #1 : HESAIの干渉防止技術 | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | LT | [資料 (GoogleSlides)](https://docs.google.com/presentation/d/1TIWgZQebaSr-iz7ziK6FbbSrf3_RAJ-ZhZsaBshX4yg/edit?usp=sharing) |
-| 前日に20分ではぜんぜん足りなかった話しとライブデモ | [takasehideki](https://connpass.com/user/takasehideki/) | 通常発表 （60分） | [資料 (SlideShare)](https://www.slideshare.net/takasehideki/ros-2-client-library-for-e2-250206371) |
-| Tesla AI Dayまとめ | [hakuturu583](https://connpass.com/user/hakuturu583/) | 通常発表 （60分） | [資料 (GoogleSlides)](https://docs.google.com/presentation/d/1SypdiSyWztWOCqG9z5Z4oGndYYwOWBAYLrJcq8eP1ow/edit?usp=sharing) |
+| 前日に20分ではぜんぜん足りなかった話しとライブデモ | [takasehideki](https://connpass.com/user/takasehideki/) | 通常発表（60分） | [資料 (SlideShare)](https://www.slideshare.net/takasehideki/ros-2-client-library-for-e2-250206371) |
+| Tesla AI Dayまとめ | [hakuturu583](https://connpass.com/user/hakuturu583/) | 通常発表（60分） | [資料 (GoogleSlides)](https://docs.google.com/presentation/d/1SypdiSyWztWOCqG9z5Z4oGndYYwOWBAYLrJcq8eP1ow/edit?usp=sharing) |
 
 <!-- ## 第N回ロボティクス勉強会
 
@@ -114,7 +114,7 @@ description: Seminar History in 2021
 | :--- | :--- | :--- | :--- |
 |  | [name](https://connpass.com/user/name/) | LT | [資料](url) |
 |  | [name](https://connpass.com/user/name/) | LT | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | 通常発表 （N分） | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | 通常発表 （N分） | [資料](url) | -->
+|  | [name](https://connpass.com/user/name/) | 通常発表（N分） | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | 通常発表（N分） | [資料](url) | -->
 - - -
 [Back](../index)
