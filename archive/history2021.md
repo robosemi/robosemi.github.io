@@ -89,34 +89,6 @@ description: Seminar History in 2021
 | 「ロボットのリアルタイムシステムについて調べてみました」 | [chikuta](https://connpass.com/user/chikuta/) | LT | 公開なし |
 | ロボット枕Pixxについて | [Ax Robotix_かわむら](https://connpass.com/user/YuichiKawamura/)| LT | [資料 (SlideShare)](https://www.slideshare.net/YuichiKawamura/20210618axrobotixkawamura-robosemi) |
 
-<!-- ## 第14回ロボティクス勉強会
-
-- 日時：2021/7/16 (金) 20:00~22:00
-- 参加者：N名
-- ツール：ZOOM
-- イベントページ：[connpass](URL)
-
-| タイトル | 発表者 | 資料等 |
-| :--- | :--- | :--- |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) | -->
-
-<!-- ## 第15回ロボティクス勉強会
-
-- 日時：2021/8/20 (金) 20:00~22:00
-- 参加者：N名
-- ツール：ZOOM
-- イベントページ：[connpass](URL)
-
-| タイトル | 発表者 | 資料等 |
-| :--- | :--- | :--- |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) | -->
-
 ## 第16回ロボティクス勉強会
 
 - 日時：2021/9/17 (金) 20:00~23:00
@@ -133,16 +105,16 @@ description: Seminar History in 2021
 
 <!-- ## 第N回ロボティクス勉強会
 
-- 日時：2021/ (金) 20:00~22:00
+- 日時：2021/ (金) 20:00~23:00
 - 参加者：N名
 - ツール：ZOOM
 - イベントページ：[connpass](URL)
 
-| タイトル | 発表者 | 資料等 |
-| :--- | :--- | :--- |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) |
-|  | [name](https://connpass.com/user/name/) | [資料](url) | -->
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+|  | [name](https://connpass.com/user/name/) | LT | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | LT | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | 通常発表(N分) | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | 通常発表(N分) | [資料](url) | -->
 - - -
 [Back](../index)
