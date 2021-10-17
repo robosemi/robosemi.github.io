@@ -130,6 +130,19 @@ description: Seminar History in 2021
 | 前日に20分ではぜんぜん足りなかった話しとライブデモ | [takasehideki](https://connpass.com/user/takasehideki/) | 通常発表（60分） | [資料 (SlideShare)](https://www.slideshare.net/takasehideki/ros-2-client-library-for-e2-250206371) |
 | Tesla AI Dayまとめ | [hakuturu583](https://connpass.com/user/hakuturu583/) | 通常発表（60分） | [資料 (GoogleSlides)](https://docs.google.com/presentation/d/1SypdiSyWztWOCqG9z5Z4oGndYYwOWBAYLrJcq8eP1ow/edit?usp=sharing) |
 
+## 第17回ロボティクス勉強会
+
+- 日時：2021/10/15 (金) 20:00~23:00
+- 参加者：38名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/217003/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| IROS2021発表の日本語再放送 | [yuki](https://connpass.com/user/blessingyuki/) | 40分 | 公開なし |
+| ロボットの回路アーキテクチャの考え方と設計 | [chikuwa_robo](https://connpass.com/user/chikuwa_robo/) | 60分 | [資料 (Google Slide)](https://docs.google.com/presentation/d/1_iJmnOslYVi7OmwggReSjVCcS3XT94mexLSmDKJgJ_s/edit#slide=id.p) |
+
+
 <!-- ## 第N回ロボティクス勉強会
 
 - 日時：2021/ (金) 20:00~23:00
