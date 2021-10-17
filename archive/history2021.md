@@ -139,8 +139,8 @@ description: Seminar History in 2021
 
 | タイトル | 発表者 | 発表枠 | 資料等 |
 | :--- | :--- | :--- | :--- |
-| IROS2021発表の日本語再放送 | [yuki](https://connpass.com/user/blessingyuki/) | 40分 | 公開なし |
-| ロボットの回路アーキテクチャの考え方と設計 | [chikuwa_robo](https://connpass.com/user/chikuwa_robo/) | 60分 | [資料 (Google Slide)](https://docs.google.com/presentation/d/1_iJmnOslYVi7OmwggReSjVCcS3XT94mexLSmDKJgJ_s/edit#slide=id.p) |
+| IROS2021発表の日本語再放送 | [yuki](https://connpass.com/user/blessingyuki/) | 通常発表(40分) | 公開なし |
+| ロボットの回路アーキテクチャの考え方と設計 | [chikuwa_robo](https://connpass.com/user/chikuwa_robo/) | 通常発表(60分) | [資料 (Google Slide)](https://docs.google.com/presentation/d/1_iJmnOslYVi7OmwggReSjVCcS3XT94mexLSmDKJgJ_s/edit#slide=id.p) |
 
 
 <!-- ## 第N回ロボティクス勉強会
