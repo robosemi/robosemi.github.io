@@ -142,6 +142,32 @@ description: Seminar History in 2021
 | IROS2021発表の日本語再放送 | [yuki](https://connpass.com/user/blessingyuki/) | 通常発表（40分） | 公開なし |
 | ロボットの回路アーキテクチャの考え方と設計 | [chikuwa_robo](https://connpass.com/user/chikuwa_robo/) | 通常発表（60分） | [資料 (Google Slide)](https://docs.google.com/presentation/d/1_iJmnOslYVi7OmwggReSjVCcS3XT94mexLSmDKJgJ_s/edit#slide=id.p) |
 
+## 第18回ロボティクス勉強会
+
+- 日時：2021/11/19 (金) 20:00~23:00
+- 参加者：41名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/217005/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| 冗長多関節ロボットの逆運動学と動作計画 | [関口叡範](https://connpass.com/user/Sekiguchi-Masanori/) | 通常発表（50分） | 公開なし |
+| フォトニック結晶レーザーを用いたLiDAR | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | LT | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1f_MdCylqV2GTvt2x7gwKOWr2_mJZQPlJvMzShE94yKg/edit?usp=sharing) | 
+| WRS2020トンネル事故災害対応・復旧チャレンジで優勝・人工知能学会賞をGETした話 | [Ryodo Tanaka](https://connpass.com/user/RyodoTanaka/) | 通常発表（40分） |  |
+
+## 第19回ロボティクス勉強会
+
+- 日時：2021/12/17 (金) 20:00~23:00
+- 参加者：43名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/217006/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| myCobot Pi with MoveIt! | [Qibitech_inc](https://connpass.com/user/Qibitech_inc/) | LT | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1Hf3X_VuJidAuSW49WHqxiurnRzzAT_gAJ_YJGWMQCFk/edit?usp=sharing) | 
+| D3-AI & B5G.ex to Beyond the Future (with us??) | [takasehideki](https://connpass.com/user/takasehideki/) | LT | 公開なし |
+| ROBO-剣 参加機体「Gano剣」技術解説 | [Infinite_Loop_](https://connpass.com/user/Infinite_Loop_/) | 通常発表（40分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1sqzbDO7_bVYbJjBcwdY_ngKbuxmxanQoUzRAI70hzmY/edit?usp=sharing) |
+| 百人一首カルタ取りロボでROS 2に入門 | [hygradme](https://connpass.com/user/hygradme/) | 通常発表（30分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/e/2PACX-1vT53QYfY2q2sG3FX91WcRtI9s1y41aG3wa8jZwOP1Jn6OUIfAd2_CpQiNqAS-5x47-_QCd8N4EFy9tE/pub?start=false&loop=false&delayms=3000) |
 
 <!-- ## 第N回ロボティクス勉強会
 
