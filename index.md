@@ -75,8 +75,8 @@ layout: default
 ロボティクス分野の若手研究者・技術者交流促進の場としての可能性を，共に探って参ります．
 
 ## 協力
-2022年4月より本企画は[関西春ロボコン運営委員会](https://xn--tck4d2b0a0029dol2bn0r.com)と協力関係になりました．
-現在「関西春ロボコン運営委員会」が主催されている春ロボコン(関西大会)2022の出場チームを交えたコラボ企画を計画中です．
+2022年4月より本企画は[関西春ロボコン運営委員会](https://xn--tck4d2b0a0029dol2bn0r.com)と協力関係になりました.
+「関西春ロボコン運営委員会」が主催されている春ロボコン(関西大会)2022の出場チームを交えたコラボ企画をやります．
 
 - - -
 <a class="twitter-timeline" data-width="540" data-height="720" data-theme="light" href="https://twitter.com/robosemi?ref_src=twsrc%5Etfw">
