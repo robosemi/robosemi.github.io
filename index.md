@@ -74,6 +74,13 @@ layout: default
 
 ロボティクス分野の若手研究者・技術者交流促進の場としての可能性を，共に探って参ります．
 
+## ロボティクス関連の勉強会
+
+ロボゼミ以外のロボティクス関連の勉強会も集めて一覧にしてみました．
+
+ [ロボティクス関連の勉強会一覧](seminar_list)
+
+
 - - -
 <a class="twitter-timeline" data-width="540" data-height="720" data-theme="light" href="https://twitter.com/robosemi?ref_src=twsrc%5Etfw">
   Tweets by robosemi
