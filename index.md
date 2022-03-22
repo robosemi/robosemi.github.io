@@ -74,10 +74,20 @@ layout: default
 
 ロボティクス分野の若手研究者・技術者交流促進の場としての可能性を，共に探って参ります．
 
+
 ## 協力
 
 本企画は，関西春ロボコンの2022年大会開催において，[関西春ロボコン運営委員会](https://xn--tck4d2b0a0029dol2bn0r.com)と協力することになりました．
 「関西春ロボコン運営委員会」が主催されている春ロボコン(関西大会)2022の出場チームを交えたコラボ企画をやります．
+
+
+## ロボティクス関連の勉強会
+
+ロボゼミ以外のロボティクス関連の勉強会も集めて一覧にしてみました．
+
+ [ロボティクス関連の勉強会一覧](seminar_list)
+
+
 
 - - -
 <a class="twitter-timeline" data-width="540" data-height="720" data-theme="light" href="https://twitter.com/robosemi?ref_src=twsrc%5Etfw">

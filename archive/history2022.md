@@ -20,6 +20,34 @@ description: Seminar History in 2022
 | IROS’21論文紹介：ソニーの新型4脚歩行ロボット"Tachyon" | [A. Yuguchi](https://connpass.com/user/ayuguchi/) | 通常発表（30分） | [資料 (PDF)](https://drive.google.com/file/d/1bnVN0Zq2UNLbACIWEAjSWzwy8UMcBQwi/view?usp=sharing) |
 | NDT勉強会について | [Namihei Adachi](https://connpass.com/user/7oei/), [Masahiko Toyoshi](https://connpass.com/user/mtoyoshi1700/) | 通常発表（70分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1rWhCQtZv4YSWdedoJWPAF3Q4umwaA8yuDADyWIhrM20/edit?usp=sharing) |
 
+
+## 第21回ロボティクス勉強会
+
+- 日時：2022/2/18 (金) 20:00~23:00
+- 参加者：35名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/223046/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| PLC制御の概要と高専ロボコンへの利用について | [ken83245210](https://connpass.com/user/ken83245210/) | LT | [資料 (SlideShare)](https://www.slideshare.net/ssuser578fa8/plc-251200613) |
+| キツツキの舌に学ぶ柔軟な伸縮屈曲ロボットアーム | [reijin](https://connpass.com/user/reijin/) | 通常発表（30分） | [資料 (論文)](https://ieeexplore.ieee.org/document/9697359) |
+| Mini Pupperの技術紹介 | [nisshan](https://connpass.com/user/nisshan/) | 通常発表（30分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1m50pGBEUcdJbGYdECKiQabFajoCX8Fl8ydkRSnG11ms/edit?usp=sharing) | 
+
+## 第22回ロボティクス勉強会
+
+- 日時：2022/3/18 (金) 20:00~23:00
+- 参加者：47名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/225647/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| GNSSでつくば環境にて自己位置推定チャレンジ | [龍](https://connpass.com/user/ryu_software/) | LT | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1kUumwQ69fDNY8GnJVQPKn5p7CjEAiNLb7lAxuxDxHV8/edit?usp=sharing) |
+| mROS 2 Update on FY2021 | [takasehideki](https://connpass.com/user/takasehideki/) | LT | [資料 (Speaker Deck)](https://speakerdeck.com/takasehideki/mros-2-update-on-fy2021) |
+| ロボティクスにおけるGPU計算 | [neka-nat](https://connpass.com/user/neka-nat/) | 通常発表（40分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1cMsRweJrhzyTdLR4w0jiENVqriDfdMZIYFoLgbdUP5Y/edit?usp=sharing) |
+| Suzuki MC3000の紹介 | [Ryujiyasu](https://connpass.com/user/Ryujiyasu/) | 通常発表（20分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1HnfVHaVQiOL1fReZnlbZsjf-K4bPO0gG2-m4jAEcmYk/edit?usp=sharing) |
+
 <!-- ## 第N回ロボティクス勉強会
 
 - 日時：2021/ (金) 20:00~23:00
