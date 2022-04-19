@@ -1,5 +1,4 @@
 ---
-title: History 2021
 description: Seminar History in 2021
 ---
 

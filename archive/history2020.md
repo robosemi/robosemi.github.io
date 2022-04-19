@@ -1,5 +1,4 @@
 ---
-title: History 2020
 description: Seminar History in 2020
 ---
 

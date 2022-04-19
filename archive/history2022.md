@@ -1,5 +1,4 @@
 ---
-title: History 2022
 description: Seminar History in 2022
 ---
 
