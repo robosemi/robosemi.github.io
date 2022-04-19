@@ -59,10 +59,4 @@ NHKロボコン大会に近い環境で経験を積むことにより，技術�
 
 関西春ロボコン運営委員会とロボティクス勉強会運営会の協力の下で，講評および審査を行い，**最優秀発表賞を三重大学「M³RC」に贈呈**しました．
 
-<iframe src="./files/harurobosemi2022_comment.pdf" width="100%" height="100%"></iframe>
-<style>
-iframe[src$=".pdf"]{
-    width:100%;
-    height:30vh;
-}
-</style>
+<iframe src="./files/harurobosemi2022_comment.pdf" width="100%" height="500"></iframe>
