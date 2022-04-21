@@ -1,5 +1,4 @@
 ---
-title: RoboSemi
 description: 関西春ロボゼミ2022
 ---
 

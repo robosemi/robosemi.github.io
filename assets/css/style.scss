@@ -7,6 +7,10 @@
   // color: black;
 //   text-align: center;
   background-image: linear-gradient(120deg, #2965CC, #46BFCF);
+  a {
+    color: white;
+    text-decoration: none;
+    }
 }
 
 .project-tagline {
@@ -33,4 +37,3 @@ a {
     color: $body-link-color;
   }
 }
-
