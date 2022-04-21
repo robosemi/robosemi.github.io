@@ -59,7 +59,7 @@ description: Seminar History in 2022
 | :--- | :--- | :--- | :--- |
 | ロボット開発とUnity | [comocc](https://connpass.com/user/comocc/) | LT | [資料 (PDF)](https://drive.google.com/file/d/11Rqt4hjih7r62RG7mmFwMh6VJm5YPa_k/view) |
 | Thrustを使った点群処理 | [neka-nat](https://connpass.com/user/neka-nat/) | LT | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1vPdxK-o4xrGgRH1TDbgFZQYTKvd2LOOjgTgfDA7ZIoU/edit#slide=id.p) |
-| 汎用クローラユニットやオープンソース”ArduPilot”の課題や限界 | [SpreadKnowledge_スプレッドナレッジ](https://connpass.com/user/Tomohiro_Mori/) | 通常発表（30分） | [資料 (PDF)](https://drive.google.com/file/d/1NrOftlJsz8qkZ-0pdwKPTnineL5pwnR_/view) |
+| 汎用クローラユニットやオープンソース ”ArduPilot”の課題や限界 | [SpreadKnowledge_スプレッドナレッジ](https://connpass.com/user/Tomohiro_Mori/) | 通常発表（30分） | [資料 (PDF)](https://drive.google.com/file/d/1NrOftlJsz8qkZ-0pdwKPTnineL5pwnR_/view) |
 | ROBOMASTER S1をROSと繋げて遊ぶ | [Hidaka](https://connpass.com/user/HidakaSato/) | 通常発表（60分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1BN-b8G_4NpMt35geRxkNWq3XnimozFb_/edit#slide=id.p1) |
 
 <!-- ## 第N回ロボティクス勉強会
