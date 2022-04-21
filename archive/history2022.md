@@ -50,7 +50,7 @@ description: Seminar History in 2022
 
 ## 第23回ロボティクス勉強会
 
-- 日時：2021/4/15 (金) 20:00~23:00
+- 日時：2022/4/15 (金) 20:00~23:00
 - 参加者：47名
 - ツール：ZOOM
 - イベントページ：[connpass](https://robosemi.connpass.com/event/228217/)
