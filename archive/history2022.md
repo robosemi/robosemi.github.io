@@ -72,8 +72,8 @@ description: Seminar History in 2022
 | :--- | :--- | :--- | :--- |
 | Stack-chanで始めるROS音声対話ロボット | [yoshipon](https://connpass.com/user/yoshipon/) | LT |  [資料(SpeakerDeck)](https://speakerdeck.com/yoshipon/stack-chan-chat-system) | 
 | 多変数最適化ソフト(python/qt)と3D形状チュートリアル（飛行機、抗力最小化）の概説 | [optimizerer](https://connpass.com/user/optimizerer/)  | LT | | 
-| 自作四足歩行ロボットでつくばチャレンジに出る | [とき](https://connpass.com/user/toki0702/) | 通常発表(20分) | [資料(GoogleSlides)](https://docs.google.com/presentation/d/1V7id3WFxMZXQJ4SZjjrv7_4WU2hwfBYh8N_w8WYSBAE/edit#slide=id.p6) |
-| Offline RLとBehavioral Cloningについて自作ロボットでの利用事例を交えて紹介 | [ksyundo](https://connpass.com/user/nekokoneko_mode/) | 通常発表(40分) |  [資料(GoogleSlides)](https://docs.google.com/presentation/d/e/2PACX-1vRAvUJv7EkUUq1Tva_212_9L9NqwINLz9XZ70G0LuNaZ2wAcuzFNlYMDAarc6KbC0tgIfvsXPvA7HL0/pub?start=false&loop=false&delayms=3000) |
+| 自作四足歩行ロボットでつくばチャレンジに出る | [とき](https://connpass.com/user/toki0702/) | 通常発表（20分） | [資料(GoogleSlides)](https://docs.google.com/presentation/d/1V7id3WFxMZXQJ4SZjjrv7_4WU2hwfBYh8N_w8WYSBAE/edit#slide=id.p6) |
+| Offline RLとBehavioral Cloningについて自作ロボットでの利用事例を交えて紹介 | [ksyundo](https://connpass.com/user/nekokoneko_mode/) | 通常発表（40分） |  [資料(GoogleSlides)](https://docs.google.com/presentation/d/e/2PACX-1vRAvUJv7EkUUq1Tva_212_9L9NqwINLz9XZ70G0LuNaZ2wAcuzFNlYMDAarc6KbC0tgIfvsXPvA7HL0/pub?start=false&loop=false&delayms=3000) |
 
 
 <!-- ## 第N回ロボティクス勉強会
