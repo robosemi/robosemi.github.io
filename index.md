@@ -63,7 +63,7 @@ layout: default
 
 - 安達 波平　（筑波大学）
 - 大西 祐輝　（東京工業大学）
-- 吉本 幸太郎（奈良先端科学技術大学院大学）
+- 吉本 幸太郎（株式会社ティアフォー）
 
 お問い合わせは，Twitterアカウント [@robosemi](https://twitter.com/robosemi) へのDMか，Eメール `robotics.seminar.oyh <at> gmail.com` へお願いします．
 
