@@ -61,9 +61,25 @@ description: Seminar History in 2022
 | 汎用クローラユニットやオープンソース ”ArduPilot”の課題や限界 | [SpreadKnowledge_スプレッドナレッジ](https://connpass.com/user/Tomohiro_Mori/) | 通常発表（30分） | [資料 (PDF)](https://drive.google.com/file/d/1NrOftlJsz8qkZ-0pdwKPTnineL5pwnR_/view) |
 | ROBOMASTER S1をROSと繋げて遊ぶ | [Hidaka](https://connpass.com/user/HidakaSato/) | 通常発表（60分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1BN-b8G_4NpMt35geRxkNWq3XnimozFb_/edit#slide=id.p1) |
 
+
+## 第24回ロボティクス勉強会
+
+- 日時：2022/5/20 (金) 20:00~23:00
+- 参加者：49名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/231861/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| Stack-chanで始めるROS音声対話ロボット | [yoshipon](https://connpass.com/user/yoshipon/) | LT |  [資料 (SpeakerDeck)](https://speakerdeck.com/yoshipon/stack-chan-chat-system) |
+| 多変数最適化ソフト(python/qt)と3D形状チュートリアル（飛行機、抗力最小化）の概説 | [optimizerer](https://connpass.com/user/optimizerer/)  | LT | [資料 (PDF)](https://drive.google.com/file/d/1A2fd_GMOf0GnDnsQ38kDg53Q_1eFpYkJ/view?usp=sharing) |
+| 自作四足歩行ロボットでつくばチャレンジに出る | [とき](https://connpass.com/user/toki0702/) | 通常発表（20分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1V7id3WFxMZXQJ4SZjjrv7_4WU2hwfBYh8N_w8WYSBAE/edit) |
+| Offline RLとBehavioral Cloningについて自作ロボットでの利用事例を交えて紹介 | [ksyundo](https://connpass.com/user/nekokoneko_mode/) | 通常発表（40分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/e/2PACX-1vRAvUJv7EkUUq1Tva_212_9L9NqwINLz9XZ70G0LuNaZ2wAcuzFNlYMDAarc6KbC0tgIfvsXPvA7HL0/pub?start=false&loop=false&delayms=3000) |
+
+
 <!-- ## 第N回ロボティクス勉強会
 
-- 日時：2021/ (金) 20:00~23:00
+- 日時：2022/ (金) 20:00~23:00
 - 参加者：N名
 - ツール：ZOOM
 - イベントページ：[connpass](URL)
