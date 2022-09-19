@@ -89,6 +89,17 @@ description: Seminar History in 2022
 | 四脚ロボットの状態推定手法を調べてみた | [kiy](https://connpass.com/user/kiy/) | 通常発表（60分） | [資料 (SlideShare)](https://www.slideshare.net/secret/CsWoBh7yW2dsR6) |
 | みかん収穫サポートロボットを作って試してみた | [橋本俊治](https://connpass.com/user/hashimotoshuji/) | 通常発表（60分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1ee6lWTKakHZedKpi5SkKf4kFQXAP9l1Z/edit) |
 
+## 第26回ロボティクス勉強会
+
+- 日時：2022/7/15 (金) 20:00~23:00
+- 参加者：25名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/238175/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| 論文紹介 (RA-L & Humanoids)：Deep Episodic Memory for Verbalization of Robot Experience | [A. Yuguchi](https://connpass.com/user/ayuguchi/) | 通常発表（60分） | [資料 (PDF)](https://drive.google.com/file/d/10qF93DaTaKViFcBF7lcOseC7l46fvNVT/view) |
+| 論文紹介 (RA-L)：Toward Fast and Optimal Robotic Pick-and-Place on a Moving Conveyor | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | 通常発表（100分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1hvgOV7Agxgrcg0yyh6bBVW79qRx8Ed8HDuVPrmPJm3w/edit#slide=id.p) |
 
 <!-- ## 第N回ロボティクス勉強会
 
