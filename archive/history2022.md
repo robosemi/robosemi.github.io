@@ -101,6 +101,19 @@ description: Seminar History in 2022
 | 論文紹介 (RA-L & Humanoids)：Deep Episodic Memory for Verbalization of Robot Experience | [A. Yuguchi](https://connpass.com/user/ayuguchi/) | 通常発表（60分） | [資料 (PDF)](https://drive.google.com/file/d/10qF93DaTaKViFcBF7lcOseC7l46fvNVT/view) |
 | 論文紹介 (RA-L)：Toward Fast and Optimal Robotic Pick-and-Place on a Moving Conveyor | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | 通常発表（100分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1hvgOV7Agxgrcg0yyh6bBVW79qRx8Ed8HDuVPrmPJm3w/edit#slide=id.p) |
 
+## 第27回ロボティクス勉強会
+
+- 日時：2022/8/19 (金) 20:00~23:00
+- 参加者：46名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/240331/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| ロボットレストラン見聞録 | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | LT | 公開なし |
+| クローラーでつくばチャレンジに挑戦 | [龍](https://connpass.com/user/ryu_software/) | 通常発表（40分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1PEKlDArnfvObvmC3bLJio3jT6WxBQFxUDMLezwO3Cq0/edit#slide=id.p) |
+| AIのラボからロボティクスへ---東大松尾研究室のWRS2020パートナーロボットチャレンジへの挑戦 | [Tatsuya Matsushima (TMats)](https://connpass.com/user/tmatsuchang/) | 通常発表（60分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1INL4CdES7YP_3i30Jfjvrzr1I6vE7X3QIXQVdnZa2_o/edit#slide=id.g145e37a2f3d_1_3) |
+
 <!-- ## 第N回ロボティクス勉強会
 
 - 日時：2022/ (金) 20:00~23:00
