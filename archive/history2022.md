@@ -76,6 +76,17 @@ description: Seminar History in 2022
 | 自作四足歩行ロボットでつくばチャレンジに出る | [とき](https://connpass.com/user/toki0702/) | 通常発表（20分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1V7id3WFxMZXQJ4SZjjrv7_4WU2hwfBYh8N_w8WYSBAE/edit) |
 | Offline RLとBehavioral Cloningについて自作ロボットでの利用事例を交えて紹介 | [ksyundo](https://connpass.com/user/nekokoneko_mode/) | 通常発表（40分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/e/2PACX-1vRAvUJv7EkUUq1Tva_212_9L9NqwINLz9XZ70G0LuNaZ2wAcuzFNlYMDAarc6KbC0tgIfvsXPvA7HL0/pub?start=false&loop=false&delayms=3000) |
 
+## 第26回ロボティクス勉強会
+
+- 日時：2022/7/15 (金) 20:00~23:00
+- 参加者：25名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/238175/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| 論文紹介 (RA-L & Humanoids)：Deep Episodic Memory for Verbalization of Robot Experience | [A. Yuguchi](https://connpass.com/user/ayuguchi/) | 通常発表（60分） | [資料 (PDF)](https://drive.google.com/file/d/10qF93DaTaKViFcBF7lcOseC7l46fvNVT/view) |
+| 論文紹介 (RA-L)：Toward Fast and Optimal Robotic Pick-and-Place on a Moving Conveyor | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | 通常発表（100分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1hvgOV7Agxgrcg0yyh6bBVW79qRx8Ed8HDuVPrmPJm3w/edit#slide=id.p) |
 
 <!-- ## 第N回ロボティクス勉強会
 
