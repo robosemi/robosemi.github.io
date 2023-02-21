@@ -114,6 +114,62 @@ description: Seminar History in 2022
 | クローラーでつくばチャレンジに挑戦 | [龍](https://connpass.com/user/ryu_software/) | 通常発表（40分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1PEKlDArnfvObvmC3bLJio3jT6WxBQFxUDMLezwO3Cq0/edit#slide=id.p) |
 | AIのラボからロボティクスへ---東大松尾研究室のWRS2020パートナーロボットチャレンジへの挑戦 | [Tatsuya Matsushima (TMats)](https://connpass.com/user/tmatsuchang/) | 通常発表（60分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1INL4CdES7YP_3i30Jfjvrzr1I6vE7X3QIXQVdnZa2_o/edit#slide=id.g145e37a2f3d_1_3) |
 
+## 第28回ロボティクス勉強会
+
+- 日時：2022/9/16 (金) 20:00~23:00
+- 参加者：23名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/242922/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| パスタ調理ロボットレストラン見聞録 | [swift_file](https://connpass.com/user/swift_file/) | LT | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1RunMDDRZi58Ud7CUPnWJpR9L5wAIwtLSWUPByZ1ee-s/edit?usp=sharing) |
+| お家で始めるMLOps | [hakuturu583](https://connpass.com/user/hakuturu583/) | LT | 未定 |
+| ロボティクス勉強会の設立と進展（RSJ発表再演） | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | 通常発表（30分） | [特集ページ](https://robosemi.github.io/archive/rsj2022) |
+| 認知症ケア技術ユマニチュードに基づくHRIの実現に向けて：ユマニチュードの触れ方の解析のために曲面板を用いた赤外線漏れ全反射方式での接触面情報の取得（RSJ発表再演） | [A. Yuguchi](https://connpass.com/user/ayuguchi/) | 通常発表（50分） | [資料 (PDF)](https://drive.google.com/file/d/1n_wfzDaGyZvEeOCX72SSBv8g8Y_BCpnF/view) |
+
+## 第29回ロボティクス勉強会
+
+- 日時：2022/10/14 (金) 20:00~23:00
+- 参加者：44名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/245858/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| e-RT3 PlusでRclexをうごかしてみる | [takasehideki](https://connpass.com/user/takasehideki/) | LT | [資料 (SpeakerDeck)](https://speakerdeck.com/takasehideki/e-rt3-plusderclexwoigokasitemiru) | 
+| Tesla botを憶測と妄想でいろいろ語る | [FrostyDesign_JP](https://connpass.com/user/FrostyDesign_JP/) | LT | 公開なし |
+| RoboSubという国際水中ロボコンについて | [swift_file](https://connpass.com/user/swift_file/) | 通常発表（50分） | 公開なし |
+| キャチロボバトルコンテストに参加して | [masero_](https://connpass.com/user/masero_/) | 通常発表（30分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1hhYtWlwF_20q96NhWxaAMKNCExsH0EBA1qieGaXTlL4/edit#slide=id.g162555e7cd0_0_10) |
+
+## 第30回ロボティクス勉強会
+
+- 日時：2022/11/25 (金) 20:00~23:00
+- 参加者：45名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/249000/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| WRSにおけるおにぎりについて | [Namihei Adachi](https://connpass.com/user/7oei/) | LT | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1Ic36KQSMTK1gAQWLc3GYYE07ObnlN3VuNP6FcDilAF4/edit?usp=sharing) |
+| On the way toなんちゃらてな話しをするつもりやったけどawesome contributorsのおかげでみなまでぜんぶ出来てしまったしなんならROS 2 topicが太平洋を横断しちまったでよ | [takasehideki](https://connpass.com/user/takasehideki/) | LT | [資料  (SpeakerDeck)](https://speakerdeck.com/takasehideki/on-the-way-to-achieve-autonomous-node-communication-in-the-elixir-ecosystem) |
+| Tesla AI Day 2022解説、Teslaの自動運転システムはなぜ動く？ | [hakuturu583](https://connpass.com/user/hakuturu583/) | 通常発表（60分） | 公開なし |
+| Team Dragonつくばチャレンジ2022報告会 | [龍](https://connpass.com/user/ryu_software/) | 通常発表（40分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/10KhsEwSQv6nwBTWM269kcRIkFKNgbXMhEslA83VDCTY/edit?usp=sharing) |
+
+## 第31回ロボティクス勉強会
+
+- 日時：2022/12/23 (金) 20:00~23:00
+- 参加者：46名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/249002/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| ご家庭で作れるヘビ型ロボット | [孔明](https://connpass.com/user/eternalfriend17/) | LT | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/17M1J1YcyW5gjoBONUvnI8lDm_HK65Tcrwy2f2VZ1qyA/edit?usp=sharing) | 
+| IROS2022 Kyotoで見かけた某ロボットw | [FrostyDesign_JP](https://connpass.com/user/FrostyDesign_JP/) | LT | 公開なし | 
+| IROS2022 Kyoto 論文紹介 | [ゆーくりっど](https://connpass.com/user/yuqlid/) | 通常発表（40分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1RqDVLyRiVSRui8jz5phYmYK-Dgdykg1KNA5tnJ-nrpI/edit#slide=id.p) |
+| 二足歩行ロボ基礎知識～重心・ZMPフィードバック制御～ | [watako](https://connpass.com/user/watako/) | 通常発表（20分） | 公開なし |
+
 <!-- ## 第N回ロボティクス勉強会
 
 - 日時：2022/ (金) 20:00~23:00

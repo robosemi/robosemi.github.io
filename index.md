@@ -57,7 +57,7 @@ layout: default
 
 - [2020年の記録（第0回〜第7回）](archive/history2020)
 - [2021年の記録（第8回〜第19回）](archive/history2021)
-- [2022年の記録（第20回〜）](archive/history2022)
+- [2022年の記録（第20回〜第31回）](archive/history2022)
 
 ## 主催
 
