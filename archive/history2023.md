@@ -6,6 +6,25 @@ description: Seminar History in 2023
 
 # 2023年の記録
 
+## 第32回
+
+- 日時：2023/1/20 (金) 20:00~23:00
+- イベントページ：[connpass](https://robosemi.connpass.com/event/252458/)
+
+発表申込なしのため不開催．
+
+## 第33回ロボティクス勉強会
+
+- 日時：2023/2/17 (金) 20:00~23:00
+- 参加者：32名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/273089/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| 商品が発話する自己推薦ロボットの事例紹介 | [IwamotoTakuya](https://connpass.com/user/IwamotoTakuya/) | 通常発表（30分） | [資料 (SpeakerDeck)](https://speakerdeck.com/takuyai/takuya-iwamoto) |
+| 論文 Capturability-Based Analysis and Control of Legged Locomotion を読む | [yuki](https://connpass.com/user/blessingyuki/) | 通常発表（60分） | [資料 (SpeakerDeck)](https://speakerdeck.com/ssryuki/review-on-capturability-based-analysis-and-control-of-legged-locomotion-part-1) |
+
 ## 第34回ロボティクス勉強会
 
 - 日時：2023/3/17 (金) 20:00~23:00
