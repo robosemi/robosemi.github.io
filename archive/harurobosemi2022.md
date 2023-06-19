@@ -1,7 +1,7 @@
 ---
+title: <a href="https://robosemi.github.io/">RoboSemi</a>
 description: 関西春ロボゼミ2022
 ---
-
 
 # 関西春ロボゼミ2022
 

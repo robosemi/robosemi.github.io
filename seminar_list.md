@@ -2,7 +2,7 @@
 description: Seminar List
 ---
 
-## ロボティクス関連の勉強会一覧
+# ロボティクス関連の勉強会一覧
 
 運営が知っているロボティクス関連の勉強会を集めてみました．  
 掲載されていない勉強会や掲載をご希望の勉強会があれば[GitHubのissue](https://github.com/robosemi/robosemi.github.io/issues)などで教えていただけると助かります．
