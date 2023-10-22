@@ -60,7 +60,7 @@ description: Seminar History in 2023
 
 | タイトル | 発表者 | 発表枠 | 資料等 |
 | :--- | :--- | :--- | :--- |
-| 学ロボ2023ロボット紹介withラビット | [MtK_oosansyo](https://connpass.com/user/MtK_oosansyo/) | LT | [資料 (PowerPoint)](https://docs.google.com/presentation/d/15D_WbzOEsqYP7tys4TjzzwBG0qClZ7Pb/edit?usp=sharing&ouid=102098775747672867066&rtpof=true&sd=true) |
+| 学ロボ2023ロボット紹介withラビット | [MtK_oosansyo](https://connpass.com/user/MtK_oosansyo/) | LT | [資料 (PowerPoint)](https://drive.google.com/file/d/15D_WbzOEsqYP7tys4TjzzwBG0qClZ7Pb/view) |
 | NHK学生ロボコン2023における取り組み | [naokichi](https://connpass.com/user/4869naokichi/) | 通常発表（25分） | [資料 (PDF)](https://drive.google.com/file/d/1BTW0vYB8iYP_AXLCvw3Hi23dzOebZdnE/view?usp=sharing) |
 | NHK学生ロボコン2023でしたこと ver.京工繊 | [name](https://connpass.com/user/yamikuma/) | 通常発表（40分） | [資料 (PDF)](https://drive.google.com/file/d/1ehepE5suWo4CZupRrJ1WMACvEXDovpOB/view?usp=sharing) |
 
