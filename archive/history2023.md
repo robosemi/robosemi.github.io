@@ -64,6 +64,18 @@ description: Seminar History in 2023
 | NHK学生ロボコン2023における取り組み | [naokichi](https://connpass.com/user/4869naokichi/) | 通常発表（25分） | [資料 (PDF)](https://drive.google.com/file/d/1BTW0vYB8iYP_AXLCvw3Hi23dzOebZdnE/view?usp=sharing) |
 | NHK学生ロボコン2023でしたこと ver.京工繊 | [name](https://connpass.com/user/yamikuma/) | 通常発表（40分） | [資料 (PDF)](https://drive.google.com/file/d/1ehepE5suWo4CZupRrJ1WMACvEXDovpOB/view?usp=sharing) |
 
+## 第38回ロボティクス勉強会
+
+- 日時：2023/07/21 (金) 20:00~23:00
+- 参加者：42名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/276165/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| 今様の自律ロボット航法ってなんだろう?〜最近のNavigationの動向〜 | [godel](https://connpass.com/user/godel/) | 通常発表（30分） | 公開なし |
+| 種子島ロケットコンテスト2023 CanSat出場記録 | [550_rs](https://connpass.com/user/550_rs/) | 通常発表（30分） | 公開なし |
+
 ## 第39回ロボティクス勉強会
 
 - 日時：2023/8/18 (金) 20:00~23:00
