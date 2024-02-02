@@ -99,6 +99,20 @@ description: Seminar History in 2023
 | 3Dプリンターでロボット作るよ ～ 黎明編 | [shiba_8ro](https://connpass.com/user/YoshihiroShibata/) | LT | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/155h_CeXNabPWAekEbRYluvHbpJjFCjJZNdJF0b3e090/edit?usp=sharing) |
 | LiDARSemi#4 東芝のLiDAR技術 | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | 通常発表（30分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1TSTysL5pfljx6ocYLlZzsQFjLOvwV_KkDNmrNeVZZEE/edit?usp=sharing) |
 
+## 第42回ロボティクス勉強会
+
+- 日時：2023/11/24 (金) 20:00~23:00
+- 参加者：29名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/295332/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| ロボットの設計データを公開するにはどのプラットフォームが最適ですか？ | [shiba_8ro](https://connpass.com/user/YoshihiroShibata/) | LT | [資料 (SpeakDeck)](https://speakerdeck.com/shiba_8ro/3dpurintaderobotutozuo-ruyo-number-2-shi-dong-bian) |
+| C++で動くロボットのテスト環境をPythonで作った話 | [natsutan](https://connpass.com/user/natsutan/) | LT | [資料 (SlideShare)](https://www.slideshare.net/minorunatsutani/robotics42pptx) |
+| RealSense T265とD415とUFACTORY Lite 6で模倣学習の実験 | [hydradom](https://connpass.com/user/hygradme/) | 通常発表（30分） | [資料 (SpeakDeck)](https://speakerdeck.com/hygradme/realsense-t265tod415toufactory-lite-6demo-fang-xue-xi-noshi-yan) |
+| 実環境を手軽にシミュレータ環境に持ってくるpointcloud2gazebo | [dandelion1124](https://connpass.com/user/dandelion1124/) | 通常発表（15分） | [資料 (SpeakDeck)](https://speakerdeck.com/atinfinity/di-42hui-roboteikusumian-qiang-hui-shi-huan-jing-woshou-qing-nisimiyuretahuan-jing-nichi-tutekurupointcloud2gazebo) |
+
 <!-- ## 第N回ロボティクス勉強会
 
 - 日時：2023/ (金) 20:00~23:00
