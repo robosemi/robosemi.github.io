@@ -32,7 +32,7 @@ description: Seminar History in 2024
 | 3Dプリンタでロボット作るよ #4 マニピュレータを 3Dプリンタで作ってみたよ | [shiba_8ro](https://connpass.com/user/YoshihiroShibata/) | LT | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1IBSts_L7j6pwk1wXbCh2U-lkIISFAz1jQwPv6NCo79Q/edit?usp=sharing) |
 | 点群データを用いた侵入禁止領域地図作成ツール | [dandelion1124](https://connpass.com/user/dandelion1124/) | LT | 公開なし |
 | 動くものづくりをもっと手軽にするオープンソースツール「UGOKU One」「FlexConsole」の紹介 | [Tomohiro AOKI](https://connpass.com/user/12tomo13a/) | 通発表（30分） | [資料 (Docswell)](https://www.docswell.com/s/12tomo13a/KW1DQQ-2024-03-23) |
-| すべてが #Zenoh になる（みなさまよろしければDocker環境をご用意ください｝ | [takasehideki](https://connpass.com/user/takasehideki/) | 通常発表（30分） | [資料（SpeakerDeck）](https://speakerdeck.com/takasehideki/quan-tega-number-zenoh-ninaru) |
+| すべてが #Zenoh になる（みなさまよろしければDocker環境をご用意ください） | [takasehideki](https://connpass.com/user/takasehideki/) | 通常発表（30分） | [資料（SpeakerDeck）](https://speakerdeck.com/takasehideki/quan-tega-number-zenoh-ninaru) |
 
 ## 第45回ロボティクス勉強会
 
