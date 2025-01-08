@@ -76,6 +76,20 @@ description: Seminar History in 2024
 | デモプロ2024報告 | [Namihei Adachi](https://connpass.com/user/7oei/) | 通常発表（20分） | 公開なし |
 | MakerFaireTokyo出展します | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | LT | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1V27QrbOP1u-2W_2D1sXSKgnwdspzm4sRBKC2V72JSgI/edit#slide=id.p) |
 
+## 第48回ロボティクス勉強会
+
+- 日時：2024/11/15 (金) 20:00~23:00
+- 参加者：34名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/331800/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| Visual Relocalization | [いしたー](https://connpass.com/user/sonicair/) | 10分LT | [資料 (Docswell)](https://www.docswell.com/s/IshitaTakeshi/KR264N-visual-relocalization-colmap) |
+| 10分で駆け抜けるROSCon2024ふりかえり | [takasehideki](https://connpass.com/user/takasehideki/) | 10分LT | [資料 (Qiita)](https://qiita.com/takasehideki/items/d6d7bf712f812cd46880) |
+| 2D SLAMにおけるScan Matchingアルゴリズムについて | [龍](https://connpass.com/user/ryu_software/) | 通常発表（50分） | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1Ug3iN_dS9tbv8h3ykxgRALGzIcdgnXafwgzDIzheE1s/edit?usp=sharing) |
+| 自動運転におけるbidirectional interationの扱い方: predict-then-plan、E2E、Hybrid、色々あるけど結局誰が一番強いの？をみんなで悩もう | [Shin](https://connpass.com/user/ShintaroTomie/) | 通常発表（70分） | 公開なし |
+
 <!-- ## 第N回ロボティクス勉強会
 
 - 日時：2023/ (金) 20:00~23:00
