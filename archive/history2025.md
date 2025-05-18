@@ -35,7 +35,7 @@ description: Seminar History in 2025
 
 ## 第51回ロボティクス勉強会
 
-- 日時：2024/5/16 (金) 20:00~23:00
+- 日時：2025/5/16 (金) 20:00~23:00
 - 参加者：27名
 - ツール：ZOOM
 - イベントページ：[connpass](https://robosemi.connpass.com/event/343143/)
