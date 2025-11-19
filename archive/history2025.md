@@ -44,7 +44,7 @@ description: Seminar History in 2025
 | :--- | :--- | :--- | :--- |
 | WindowsでGenesisに挑戦した話 | [natsutan](https://connpass.com/user/natsutan/) | LT | [資料（SpeakerDeck）](https://speakerdeck.com/natsutan/windowsdegenesisnitiao-zhan-sitahua) |
 | 自動運転におけるVision-Language Action (VLA) modelに詳しくなりたい！と思った初学者が論文を一つ読んできたので紹介します | [Shin](https://connpass.com/user/ShintaroTomie/) | LT | 公開なし |
-| RoboCup Japan Open2025に参加してきました | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | 通常発表（90分） | [資料（SpeakerDeck）](https://docs.google.com/presentation/d/1pGS2MIIUnA4xz5JgeSRu7xLziHoXQo12BjkuUiC--hE/edit?usp=sharing) |
+| RoboCup Japan Open2025に参加してきました | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | 通常発表（90分） | [資料（GoogleSlide）](https://docs.google.com/presentation/d/1pGS2MIIUnA4xz5JgeSRu7xLziHoXQo12BjkuUiC--hE/edit?usp=sharing) |
 
 <!-- ## 第N回ロボティクス勉強会
 
