@@ -21,8 +21,8 @@ description: 全勉強会アーカイブ（第0回〜最新）
 
 EOF
 
-# 新しい年から順に結合
-for year in 2025 2024 2023 2022 2021 2020; do
+# 古い年から新しい年へ順に結合
+for year in 2020 2021 2022 2023 2024 2025; do
   file="archive/history${year}.md"
   if [ -f "$file" ]; then
     # frontmatter、linkタグ、Backリンク、区切り線を除去
