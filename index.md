@@ -68,6 +68,7 @@ layout: default
 - [2022年の記録（第20回〜第31回）](archive/history2022)
 - [2023年の記録（第32回〜第42回）](archive/history2023)
 - [2024年の記録（第43回〜第48回）](archive/history2024)
+- [2025年の記録（第49回〜）](archive/history2025)
 
 ## 主催
 
