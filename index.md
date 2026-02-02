@@ -63,11 +63,13 @@ layout: default
 
 以下のリンクでは発表者と発表タイトル，および資料へのリンクを記録しています．
 
+- **[全アーカイブ（第0回〜最新）](archive/history_all)**
 - [2020年の記録（第0回〜第7回）](archive/history2020)
 - [2021年の記録（第8回〜第19回）](archive/history2021)
 - [2022年の記録（第20回〜第31回）](archive/history2022)
 - [2023年の記録（第32回〜第42回）](archive/history2023)
 - [2024年の記録（第43回〜第48回）](archive/history2024)
+- [2025年の記録（第49回〜）](archive/history2025)
 
 ## 主催
 
