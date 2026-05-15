@@ -796,7 +796,7 @@ description: 全勉強会アーカイブ（第0回〜最新）
 | タイトル | 発表者 | 発表枠 | 資料等 |
 | :--- | :--- | :--- | :--- |
 | 3Dプリンタでロボット作るよ - ロボティクス向け材料編 | [shiba_8ro](https://connpass.com/user/shiba_8ro/) | LT | [資料 (SpeakerDeck)](https://speakerdeck.com/shiba_8ro/3dpurintaderobotutozuo-ruyo-number-5-robotutoxiang-ke3dpurintacai-liao) |
-| 無所属学会発表のすゝめ | [SatomiHanasaki](https://connpass.com/user/SatomiHanasaki/) | LT |  |
+| 無所属学会発表のすゝめ | [SatomiHanasaki](https://connpass.com/user/SatomiHanasaki/) | LT | [資料 (Docswell)](https://www.docswell.com/s/atom-2003/ZX6DV7-2025-09-22-121124) |
 | 高校生チームがRoboCup世界大会に参加してみた | [muramoto_koki](https://connpass.com/user/muramoto_koki/) | 通常発表 |  |
 | 自動運転におけるPlanningの評価指標RFS(Rater Feedback Score) | [Shin](https://connpass.com/user/ShintaroTomie/) | 通常発表 | 公開なし |
 
@@ -810,9 +810,9 @@ description: 全勉強会アーカイブ（第0回〜最新）
 | タイトル | 発表者 | 発表枠 | 資料等 |
 | :--- | :--- | :--- | :--- |
 | 動くものづくりをもっと手軽にする「UGOKU」シリーズの紹介 | [AOKI Tomohiro](https://connpass.com/user/12tomo13a/) | LT | [資料 (Docswell)](https://www.docswell.com/s/12tomo13a/KEX27D-UGOKU_2025) |
-|  | [takeofuture7](https://connpass.com/user/takeofuture7/) | LT |  |
-| WRS2025出場完走とnステップで出来るWRS環境構築 | [yoshiko_kulala](https://connpass.com/user/yoshiko_kulala/) | 通常発表 |  |
-| Hybrid A* Path Planning | 龍 | 通常発表 |  |
+| コンピュータビジョンカンファレンス (ICCV2025)で発表されたロボティクス関連の論文を自分なりに理解して要約紹介RoboFactory: Exploring Embodies Agent Collaboration with Compositional Constraints | [takeofuture7](https://connpass.com/user/takeofuture7/) | LT | [資料 (SpeakerDeck)](https://speakerdeck.com/takeofuture/14-robosemidenofa-biao-zi-liao) |
+| WRS2025出場完走とnステップで出来るWRS環境構築 | [yoshiko_kulala](https://connpass.com/user/yoshiko_kulala/) | 通常発表 | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1jTq08u6lNY9yhz0kZLCggP1qWn_S8yTXqPgOSNyLNnM/edit?usp=sharing) |
+| Hybrid A* Path Planning | [龍](https://connpass.com/user/ryu_software/) | 通常発表 | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/13J6iD_zXAfHuwmmGazeEqHfkUw51LrMus6jY5EBKhis/edit?usp=sharing) |
 
 <!-- ## 第N回ロボティクス勉強会
 
@@ -841,8 +841,9 @@ description: 全勉強会アーカイブ（第0回〜最新）
 
 | タイトル | 発表者 | 発表枠 | 資料等 |
 | :--- | :--- | :--- | :--- |
-| （仮）Sim2Realの手順調べてみた。or 旬のロボティクス関連の論文サーベイまとめ | [takeofuture7](https://connpass.com/user/takeofuture7/) | LT | [資料 (SpeakerDeck)](https://speakerdeck.com/takeofuture/rosatoiullmshi-tutarosezientowoomotiyanishi-zhuang-sitemitahua) |
-| Unity製ROS 2シミュレータの紹介 | Masaaki Hijikata | LT |  |
+| ROSAというLLM使ったROSエージェントをおもちゃに実装してみた話
+ | [takeofuture7](https://connpass.com/user/takeofuture7/) | LT | [資料 (SpeakerDeck)](https://speakerdeck.com/takeofuture/rosatoiullmshi-tutarosezientowoomotiyanishi-zhuang-sitemitahua) |
+| Unity製ROS 2シミュレータの紹介 | [Masaaki Hijikata](https://connpass.com/user/hijimasa/) | LT | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/10cgCjAEZoM54I2WYWG2ElWb-TR8pQ16N/edit?usp=sharing&ouid=103201946606274363939&rtpof=true&sd=true) |
 | LiDARSemi#5 カメラでLiDARを撮影するとセンサが焼ける現象について(仮) | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | 通常発表 | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1h-bD9hrftQ0QbHajO_Ke0oiDSsT-B9M2KmZk3oRWZ_g/edit?usp=sharing) |
 | Alpamayo-1: NVIDIAが開発したVLM自動運転モデルの中身に迫る | [Shin](https://connpass.com/user/ShintaroTomie/) | 通常発表 | 公開なし |
 
