@@ -15,8 +15,9 @@ description: Seminar History in 2026
 
 | タイトル | 発表者 | 発表枠 | 資料等 |
 | :--- | :--- | :--- | :--- |
-| （仮）Sim2Realの手順調べてみた。or 旬のロボティクス関連の論文サーベイまとめ | [takeofuture7](https://connpass.com/user/takeofuture7/) | LT | [資料 (SpeakerDeck)](https://speakerdeck.com/takeofuture/rosatoiullmshi-tutarosezientowoomotiyanishi-zhuang-sitemitahua) |
-| Unity製ROS 2シミュレータの紹介 | Masaaki Hijikata | LT |  |
+| ROSAというLLM使ったROSエージェントをおもちゃに実装してみた話
+ | [takeofuture7](https://connpass.com/user/takeofuture7/) | LT | [資料 (SpeakerDeck)](https://speakerdeck.com/takeofuture/rosatoiullmshi-tutarosezientowoomotiyanishi-zhuang-sitemitahua) |
+| Unity製ROS 2シミュレータの紹介 | [Masaaki Hijikata](https://connpass.com/user/hijimasa/) | LT | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/10cgCjAEZoM54I2WYWG2ElWb-TR8pQ16N/edit?usp=sharing&ouid=103201946606274363939&rtpof=true&sd=true) |
 | LiDARSemi#5 カメラでLiDARを撮影するとセンサが焼ける現象について(仮) | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | 通常発表 | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1h-bD9hrftQ0QbHajO_Ke0oiDSsT-B9M2KmZk3oRWZ_g/edit?usp=sharing) |
 | Alpamayo-1: NVIDIAが開発したVLM自動運転モデルの中身に迫る | [Shin](https://connpass.com/user/ShintaroTomie/) | 通常発表 | 公開なし |
 
