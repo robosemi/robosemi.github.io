@@ -84,9 +84,9 @@ description: Seminar History in 2025
 | タイトル | 発表者 | 発表枠 | 資料等 |
 | :--- | :--- | :--- | :--- |
 | 動くものづくりをもっと手軽にする「UGOKU」シリーズの紹介 | [AOKI Tomohiro](https://connpass.com/user/12tomo13a/) | LT | [資料 (Docswell)](https://www.docswell.com/s/12tomo13a/KEX27D-UGOKU_2025) |
-| 第54回ロボティクス勉強会　発表スライド | 龍 |  |  |
-| WRS2025出場完走とnステップで出来るWRS環境構築 | 龍 |  |  |
-| Hybrid A* Path Planning | 龍 |  |  |
+|  | [takeofuture7](https://connpass.com/user/takeofuture7/) | LT |  |
+| WRS2025出場完走とnステップで出来るWRS環境構築 | [yoshiko_kulala](https://connpass.com/user/yoshiko_kulala/) | 通常発表 |  |
+| Hybrid A* Path Planning | 龍 | 通常発表 |  |
 
 <!-- ## 第N回ロボティクス勉強会
 
