@@ -9,7 +9,7 @@ description: 全勉強会アーカイブ（第0回〜最新）
 このページは検索性向上のため、全ての勉強会記録を1ページにまとめたものです。
 
 **年ごとの記録:**
-[2020年](history2020) | [2021年](history2021) | [2022年](history2022) | [2023年](history2023) | [2024年](history2024) | [2025年](history2025)
+[2020年](history2020) | [2021年](history2021) | [2022年](history2022) | [2023年](history2023) | [2024年](history2024) | [2025年](history2025) | [2026年](history2026)
 
 ---
 
@@ -772,9 +772,97 @@ description: 全勉強会アーカイブ（第0回〜最新）
 | 自動運転におけるVision-Language Action (VLA) modelに詳しくなりたい！と思った初学者が論文を一つ読んできたので紹介します | [Shin](https://connpass.com/user/ShintaroTomie/) | LT | 公開なし |
 | RoboCup Japan Open2025に参加してきました | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | 通常発表（90分） | [資料（GoogleSlide）](https://docs.google.com/presentation/d/1pGS2MIIUnA4xz5JgeSRu7xLziHoXQo12BjkuUiC--hE/edit?usp=sharing) |
 
+## 第52回ロボティクス勉強会
+
+- 日時：2025/7/11 (金) 20:00~23:00
+- 参加者：45名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/349745/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| ROS1 EOL後のROS1/ROS2＆Jetson開発環境構築・運用ノウハウ | [Tiryoh](https://connpass.com/user/Tiryoh/) | LT | [資料 (Zenn)](https://zenn.dev/tiryoh/articles/2025-07-20-ros2-cuda-jetson) |
+| 模倣学習をしてSO-101アームを動かしてみた | [yuto2000](https://connpass.com/user/yuto2000/) | LT |  |
+| 自動運転VLM初学者がCVPR2025の論文を読んできたので発表します | [Shin](https://connpass.com/user/ShintaroTomie/) | 通常発表 | 公開なし |
+| Livox Mid-360をROS 2で使いこなす | [dandelion1124](https://connpass.com/user/dandelion1124/) | 通常発表 | [資料 (Docswell)](https://www.docswell.com/s/dandelion1124/ZNJ68Q-2025-07-14-220903) |
+
+## 第53回ロボティクス勉強会
+
+- 日時：2025/9/19 (金) 20:00~23:00
+- 参加者：26名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/361371/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| 3Dプリンタでロボット作るよ - ロボティクス向け材料編 | [shiba_8ro](https://connpass.com/user/shiba_8ro/) | LT | [資料 (SpeakerDeck)](https://speakerdeck.com/shiba_8ro/3dpurintaderobotutozuo-ruyo-number-5-robotutoxiang-ke3dpurintacai-liao) |
+| 無所属学会発表のすゝめ | [SatomiHanasaki](https://connpass.com/user/SatomiHanasaki/) | LT | [資料 (Docswell)](https://www.docswell.com/s/atom-2003/ZX6DV7-2025-09-22-121124) |
+| 高校生チームがRoboCup世界大会に参加してみた | [muramoto_koki](https://connpass.com/user/muramoto_koki/) | 通常発表 |  |
+| 自動運転におけるPlanningの評価指標RFS(Rater Feedback Score) | [Shin](https://connpass.com/user/ShintaroTomie/) | 通常発表 | 公開なし |
+
+## 第54回ロボティクス勉強会
+
+- 日時：2025/11/14 (金) 20:00~23:00
+- 参加者：25名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/366873/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| 動くものづくりをもっと手軽にする「UGOKU」シリーズの紹介 | [AOKI Tomohiro](https://connpass.com/user/12tomo13a/) | LT | [資料 (Docswell)](https://www.docswell.com/s/12tomo13a/KEX27D-UGOKU_2025) |
+| コンピュータビジョンカンファレンス (ICCV2025)で発表されたロボティクス関連の論文を自分なりに理解して要約紹介RoboFactory: Exploring Embodies Agent Collaboration with Compositional Constraints | [takeofuture7](https://connpass.com/user/takeofuture7/) | LT | [資料 (SpeakerDeck)](https://speakerdeck.com/takeofuture/14-robosemidenofa-biao-zi-liao) |
+| WRS2025出場完走とnステップで出来るWRS環境構築 | [yoshiko_kulala](https://connpass.com/user/yoshiko_kulala/) | 通常発表 | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1jTq08u6lNY9yhz0kZLCggP1qWn_S8yTXqPgOSNyLNnM/edit?usp=sharing) |
+| Hybrid A* Path Planning | [龍](https://connpass.com/user/ryu_software/) | 通常発表 | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/13J6iD_zXAfHuwmmGazeEqHfkUw51LrMus6jY5EBKhis/edit?usp=sharing) |
+
 <!-- ## 第N回ロボティクス勉強会
 
 - 日時：2025/ (金) 20:00~23:00
+- 参加者：N名
+- ツール：ZOOM
+- イベントページ：[connpass](URL)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+|  | [name](https://connpass.com/user/name/) | LT | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | LT | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | 通常発表（N分） | [資料](url) |
+|  | [name](https://connpass.com/user/name/) | 通常発表（N分） | [資料](url) | -->
+
+---
+
+# 2026年の記録
+
+## 第55回ロボティクス勉強会
+
+- 日時：2026/1/23 (金) 20:00~23:00
+- 参加者：22名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/376604/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+| ROSAというLLM使ったROSエージェントをおもちゃに実装してみた話
+ | [takeofuture7](https://connpass.com/user/takeofuture7/) | LT | [資料 (SpeakerDeck)](https://speakerdeck.com/takeofuture/rosatoiullmshi-tutarosezientowoomotiyanishi-zhuang-sitemitahua) |
+| Unity製ROS 2シミュレータの紹介 | [Masaaki Hijikata](https://connpass.com/user/hijimasa/) | LT | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/10cgCjAEZoM54I2WYWG2ElWb-TR8pQ16N/edit?usp=sharing&ouid=103201946606274363939&rtpof=true&sd=true) |
+| LiDARSemi#5 カメラでLiDARを撮影するとセンサが焼ける現象について(仮) | [Hans_Robo](https://connpass.com/user/Hans_Robo/) | 通常発表 | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1h-bD9hrftQ0QbHajO_Ke0oiDSsT-B9M2KmZk3oRWZ_g/edit?usp=sharing) |
+| Alpamayo-1: NVIDIAが開発したVLM自動運転モデルの中身に迫る | [Shin](https://connpass.com/user/ShintaroTomie/) | 通常発表 | 公開なし |
+
+## 第56回ロボティクス勉強会
+
+- 日時：2026/5/15 (金) 20:00~23:00
+- 参加者：20名
+- ツール：ZOOM
+- イベントページ：[connpass](https://robosemi.connpass.com/event/383476/)
+
+| タイトル | 発表者 | 発表枠 | 資料等 |
+| :--- | :--- | :--- | :--- |
+|  | [takeofuture](https://connpass.com/user/takeofuture7/) | LT | [資料 (SpeakerDeck)](https://speakerdeck.com/takeofuture/forklift-goal-condition-reinforcement-learning-by-gazebo-plus-ros2-topic) |
+| 「JAXAベンチャー”emblem”によるジェットパック型飛行装置の開発 | [Daichi-Wada](https://connpass.com/user/Daichi-Wada/) | LT |  |
+| LiDARを使わずにTPS風遠隔操縦画面を生成してみた | [Masaaki Hijikata](https://connpass.com/user/hijimasa/) | 通常発表 | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1W1Sjhj9JOIzJpNT3hViI9K6l69NOuW7S/edit?usp=sharing&ouid=103201946606274363939&rtpof=true&sd=true) |
+
+<!-- ## 第N回ロボティクス勉強会
+
+- 日時：2026/ (金) 20:00~23:00
 - 参加者：N名
 - ツール：ZOOM
 - イベントページ：[connpass](URL)
