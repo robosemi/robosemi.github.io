@@ -850,16 +850,15 @@ description: 全勉強会アーカイブ（第0回〜最新）
 ## 第56回ロボティクス勉強会
 
 - 日時：2026/5/15 (金) 20:00~23:00
-- 参加者：2名
+- 参加者：20名
 - ツール：ZOOM
 - イベントページ：[connpass](https://robosemi.connpass.com/event/383476/)
 
 | タイトル | 発表者 | 発表枠 | 資料等 |
 | :--- | :--- | :--- | :--- |
-|  |  | LT |  |
-|  |  | LT |  |
-|  |  | 通常発表 |  |
-|  |  | 通常発表 |  |
+|  | [takeofuture](https://connpass.com/user/takeofuture7/) | LT | [資料 (SpeakerDeck)](https://speakerdeck.com/takeofuture/forklift-goal-condition-reinforcement-learning-by-gazebo-plus-ros2-topic) |
+| 「JAXAベンチャー”emblem”によるジェットパック型飛行装置の開発 | [Daichi-Wada](https://connpass.com/user/Daichi-Wada/) | LT |  |
+| LiDARを使わずにTPS風遠隔操縦画面を生成してみた | [Masaaki Hijikata](https://connpass.com/user/hijimasa/) | 通常発表 | [資料 (GoogleSlide)](https://docs.google.com/presentation/d/1W1Sjhj9JOIzJpNT3hViI9K6l69NOuW7S/edit?usp=sharing&ouid=103201946606274363939&rtpof=true&sd=true) |
 
 <!-- ## 第N回ロボティクス勉強会
 
