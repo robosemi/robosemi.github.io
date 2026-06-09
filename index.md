@@ -76,8 +76,8 @@ layout: default
 
 ### ロボティクス勉強会運営会
 
-- 安達 波平　（筑波大学）
-- 大西 祐輝　（東京工業大学）
+- 安達 波平　（標津町）
+- 大西 祐輝　（国立情報学研究所）
 - 吉本 幸太郎（株式会社ティアフォー）
 
 お問い合わせは，Twitterアカウント [@robosemi](https://twitter.com/robosemi) へのDMか，Eメール `robotics.seminar.oyh <at> gmail.com` へお願いします．
