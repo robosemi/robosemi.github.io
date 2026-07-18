@@ -28,8 +28,4 @@ cleanup() {
 
 trap cleanup EXIT INT TERM
 
-printf '%s\n' \
-  'Starting the RoboSemi preview at http://localhost:4000' \
-  'Press Ctrl+C to stop it.'
-
 docker compose up --build --remove-orphans
