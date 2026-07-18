@@ -4,29 +4,24 @@ You can view our HP [here](https://robosemi.github.io/).
 
 ![robosemi_logo](figure/logo.png)
 
-## Memo for Editors
-This section describes how to preview new pages on Ubuntu.
+## Local preview with Docker
 
-### Setting up
+Install [Docker Engine](https://docs.docker.com/engine/install/) or
+[Docker Desktop](https://docs.docker.com/desktop/) with Docker Compose v2.
+Ruby and Bundler do not need to be installed on the host.
+
+Run the following command from the repository root:
+
 ```bash
-sudo apt install ruby-dev
-git clone https://github.com/pages-themes/cayman
-cd cayman
-./script/bootstrap
-```
-The last command sometimes needs the root permission.
-After that, execute the following commands:
-```bash
-cd ${root of this repo.}
-sudo bundle install
+./test.bash
 ```
 
-### Previewing
-Execute the following command on the root of this repo.
-```bash
-bundle exec jekyll serve
-```
-Then visiting [localhost:4000](http://localhost:4000/) in your browser, you can preview pages locally.
+The first run builds the image and installs the required gems. Open
+[localhost:4000](http://localhost:4000/) in your browser after Jekyll reports
+that the server is running. Changes to Markdown and stylesheets are rebuilt
+automatically; refresh the browser to see them.
+
+Press `Ctrl+C` to stop the preview and remove its container.
 
 ## Aknowledgement
 This site is based on the [Cayman](https://github.com/pages-themes/cayman) thema.
