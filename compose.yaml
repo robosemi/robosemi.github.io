@@ -1,0 +1,17 @@
+name: robosemi-preview
+
+services:
+  site:
+    build:
+      context: .
+    init: true
+    environment:
+      JEKYLL_ENV: development
+      PAGES_REPO_NWO: robosemi/robosemi.github.io
+    volumes:
+      - type: bind
+        source: .
+        target: /site
+        read_only: true
+    ports:
+      - "127.0.0.1:4000:4000"

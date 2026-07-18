@@ -1,8 +1,10 @@
-# automatically generated dirs.
-_site
+# Local dependencies and generated site data
+.bundle/
+vendor/
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
 
-# automatically generated files
-Gemfile.lock
-
-# vscode settings
-.vscode
+# VS Code settings
+.vscode/
